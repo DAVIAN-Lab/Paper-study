@@ -27,3 +27,14 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 	
 	- 전체 사진을 보지 말고 매 스텝마다 일부 패치를 보고 다음 스텝에서 해당 패치에서 어느 위치의 패치 뽑아서 인식할지를 학습
 	- controller는 RNN, Reinforcement learning으로 학습
+
+* Seongjae Choi
+	
+	[Imagination-Augmented Agents for Deep Reinforcement Learning](https://arxiv.org/abs/1707.06203)
+
+	- 기존 Model-Free RL에 Model-Based 개념을 적용함으로 써 Agent가 상상 및 추론을 하게 함
+	- 상상으로 만들어진 Predicted Observation, Predicted Reward에서 RNN(LSTM)을 이용해 정보를 추출하고 이를 optimal policy를 찾는 곳에 활용 함
+	- Sokoban 게임에서, 기존 standard model(A3C)가 60% 정도의 성능을 낸 것에 반해, 87% 성능을 확보 함
+	- Model-Based planning Method인 MCTS와 결합해 사용할 경우 computation cost는 18배 정도 줄어들었음
+
+
