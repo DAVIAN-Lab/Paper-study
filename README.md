@@ -9,9 +9,10 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
 * Jisu Lim
 
-	[End-to-end Learning of Image based Lane-Change Decision](https://arxiv.org/pdf/1706.08211.pdf)
+	[End-to-end Learning of Image based Lane-Change Decision](https://www.dropbox.com/s/fr45shissiydjcg/naver_labs.pdf?dl=0)
 	- NAVER_LABS에서 안전하게 차선 변경을 하기 위한 알고리즘 논문입니다.
 	  http://www.naverlabs.com/showroom/autonomous_driving.html
+	  
 	  위 사이트는 네이버 랩스 홈페이지 입니다.
 	  차량에 부착 된 2개의 카메라를 사용하여 찍힌 사진의 모습을 보고 차선변경이 가능할 경우 'FREE', 불가능할 경우 'BLOCKED', 모호할 경우 'UNDEFINED'의 레이블을 추가합니다.
 	  VGG 16 에 수집된 이미지들을 학습시켜 차량이 안전하게 차선 변경이 가능한지의 여부를 학습니다.
