@@ -7,6 +7,11 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
   [A Persona-Based Neural Conversation Model](https://drive.google.com/open?id=0B9xAbjSTQ9G1SmZIWWU4VmRWdFE)  
   - 곧 업데이트 하겠습니다
 
+* Jisu Lee
+
+	[]()
+	- fdsaf
+
 
 ## 2017-07-27
 * Taehoon Kim
