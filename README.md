@@ -8,7 +8,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 	- Standford  박사인 Jiwei Li와 Microsoft가 합작하여 연구한 논문으로, 2016년에 ACL에서 발표되었습니다. 
 	- 이 연구분야는 NLP에서 Neural Conversation Models 혹은 Neural Dialogue Generation으로 불리며, Open-domain Chatbot과 personal assistant와 같은 Conversation AI가 궁극적인 목표입니다
 	- 본 논문에서는 기존에 사용하던 Seq2seq + MLE의 알고리즘의 Decoder에서 각 단어를 예측할 때 사용자 정보를 의미하는 Vi 벡터를 삽입함으로써, 기존의 generic하며 dull한 응답을 개선하고 chatbot에도 character를 입힐 수 있다는 점을 보였습니다.
-	- Vi 벡터를 삽입하는 방법으로 SpeakerModel과 SpeakerAddresseeModel 등 두 모형을 제시하는데, Speaker Model은 응답자의 성격만 고려하는데 반하여 Speak-addressee Model은 질문자와 응답자의 관계 또한 고려하여 서로다른 대화상대자에 따라 달라지는 자세를 반영할 수 있게 하였습니다.
+	- Vi 벡터를 삽입하는 방법으로 Speaker Model과 Speaker-Addressee Model 등 두 모형을 제시하는데, Speaker Model은 응답자의 성격만 고려하는데 반하여 Speak-addressee Model은 질문자와 응답자의 관계 또한 고려하여 서로 다른 대화상대자에 따라 달라지는 자세를 반영할 수 있게 하였습니다.
 	- 저자는 단지 성격을 입히는 것 이상으로 나아가서 generic하고 vague한 응답을 수정하는 방안을 제시하는데, 그것이 N-best list를 특정 score를 기준으로 shuffle하는 것입니다. Score는 응답되는 sequence의 길이와 input message의 likelihood에 Penalty를 거는 방식으로 설정합니다.
 	- 본 논문은 기존의 딱딱하던 발화자들에게 어느 정도 character 또는 persona를 씌워줬다는 점에서 의의를 가진다고 생각됩니다
 
