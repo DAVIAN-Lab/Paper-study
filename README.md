@@ -4,6 +4,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
 ## 2017-08-17
 * Kim Teahun
+
   [Sparse Composite Document Vectors using soft clustering over distributional representations](https://www.dropbox.com/s/r2l12nue0we4zrj/SCDV%20-%20Sparse%20Composite%20Document%20Vectors%20using%20soft%20clustering%20over%20distributional%20representations_%EA%B9%80%ED%83%9C%ED%9B%88_20170816.pdf?dl=0)
   - Doc2Vec을 생성하는 새로운 모델(SCDV)에 대한 논문입니다. 
   - skip-gram, Gaussian Mixture Model, Sparsity를 활용하여 skip gram의 Word2Vec에 
