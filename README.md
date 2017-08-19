@@ -5,10 +5,10 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 ## 2017-08-17
 * Choi Taekyoon
 
-[End-to-end Neural Coreference Resolution](https://www.dropbox.com/s/ftfd9uwlbbkakgf/End2end_neural_coreference_resolution.pdf?dl=0)
-- Coreference Task에 대해서 End-to-end로 접근하여 해결하고자 하는 방법입니다.
-- Span Representation을 활용하여 mention을 detect하고 각 mention간의 antecedent score를 통해 coreference 관계를 찾습니다.
-- 모든 span의 경우에 대한 coreference를 보지않고 mention score를 통해 일부 span에 대해서만 관계를 보게하여 computation 성능을 최적화하고자 합니다.
+  [End-to-end Neural Coreference Resolution](https://www.dropbox.com/s/ftfd9uwlbbkakgf/End2end_neural_coreference_resolution.pdf?dl=0)
+  - Coreference Task에 대해서 End-to-end로 접근하여 해결하고자 하는 방법입니다.
+  - Span Representation을 활용하여 mention을 detect하고 각 mention간의 antecedent score를 통해 coreference 관계를 찾습니다.
+  - 모든 span의 경우에 대한 coreference를 보지않고 mention score를 통해 일부 span에 대해서만 관계를 보게하여 computation 성능을 최적화하고자 합니다.
 
 * Kim Teahun
 
