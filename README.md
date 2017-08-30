@@ -2,6 +2,14 @@
 
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
+## 2017-08-24
+* JinHo Choi
+
+  [Learning Cooperative Visual Dialog Agents With Depp Reinforcement](https://www.dropbox.com/s/27my4nn6v0yigjw/Learning%20Cooperative%20Visual%20Dialog%20Agents%20with%20Deep%20Reinforcement.pptx?dl=0)
+ - RL을 사용해 두 에이전트 봇끼리 자연어로 대화하면서 guessing game을 풀도록 함
+ - 두 봇에게 각각 한정된 단어만 사용하도록 했을때 사람의 개입 없이 나름대로 comunication protocol 을 생성해서 대화를 함 
+
+
 ## 2017-08-17
 * Choi Taekyoon
 
