@@ -2,6 +2,15 @@
 
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
+## 2017-10-18
+* Taehun Kim
+    [Learning to remember rare events](https://www.dropbox.com/s/opfp8zb0f2wtoy8/Learning%20to%20remember%20rare%20events_%EA%B9%80%ED%83%9C%ED%9B%88_20171018.pdf?dl=0)
+    - Memory matrix를 통한 one shot learning 학습
+    - cnn의 fully connected layer의 output을 key로 memory update
+    - omniglot data을 통한 실험
+    - Extended Neural GPU(Synthetic task), GNMT(translation)등을 사용한 실험
+    
+    
 ## 2017-09-06
 * Kyeongpil Kang
     [Factorized Variational Autoencoders for Modeling Audience Reactions to Movies](https://drive.google.com/open?id=0B5pbHg6gugiOalNrbUpyQm81UlU)
