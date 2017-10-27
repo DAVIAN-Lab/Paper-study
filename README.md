@@ -42,6 +42,11 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 * 최민제
 
   Patient Subtyping via Time-Aware LSTM Networks
+
+## 2017-09-13
+* 김민정
+
+  Constituent-Centric Neural Architecture for Reading Comprehension
   
 ## 2017-09-06
 * Kyeongpil Kang
