@@ -2,6 +2,14 @@
 
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
+
+## 2017-10-18
+* 최진호
+  Get To the Point: Summarization with Pointer-Generator Networks
+  
+* 강경필
+  supervised word mover's distance
+  
 ## 2017-10-18
 * Taehun Kim
     [Learning to remember rare events](https://www.dropbox.com/s/opfp8zb0f2wtoy8/Learning%20to%20remember%20rare%20events_%EA%B9%80%ED%83%9C%ED%9B%88_20171018.pdf?dl=0)
