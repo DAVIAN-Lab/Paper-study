@@ -3,7 +3,7 @@
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
 
-## 2017-10-18
+## 2017-10-25
 * 최진호
   
   Get To the Point: Summarization with Pointer-Generator Networks
