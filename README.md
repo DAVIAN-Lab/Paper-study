@@ -2,7 +2,15 @@
 
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
+## 2017-11-01
+* 최민석
+  
+  Synthesized Classifiers for Zero-Sho
 
+* 최성재
+
+  Deep  Compositional Question Answering with Neural Module Networks 
+  
 ## 2017-10-25
 * 최진호
   
