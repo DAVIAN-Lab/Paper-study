@@ -2,6 +2,15 @@
 
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
+## 2017-11-08
+* 조원웅
+
+  Robust Image Sentiment Analysis Using Progressively Trained and Domain Transferred Deep Networks
+
+* 김민정
+
+  Gated Word-Character Recurrent Language Model
+
 ## 2017-11-01
 * 최민석
   
