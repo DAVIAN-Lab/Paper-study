@@ -2,6 +2,21 @@
 
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
+## 2017-11-22
+
+* 박기태
+
+  TextureGAN: Controlling Deep Image Synthesis with Texture Patches
+
+* 효진
+
+  An End-to-End Spatio-Temporal Attention Model for Human Action Recognition from Skeleton Data
+
+## 2017-11-15
+* 최민제
+
+  Dynamic Routing Between Capsules
+
 ## 2017-11-08
 * 조원웅
 
@@ -30,7 +45,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
   supervised word mover's distance
   
 ## 2017-10-18
-* Taehun Kim
+* 김태훈
     
     [Learning to remember rare events](https://www.dropbox.com/s/opfp8zb0f2wtoy8/Learning%20to%20remember%20rare%20events_%EA%B9%80%ED%83%9C%ED%9B%88_20171018.pdf?dl=0)
     - Memory matrix를 통한 one shot learning 학습
