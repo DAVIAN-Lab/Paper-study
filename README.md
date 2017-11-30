@@ -2,6 +2,17 @@
 
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
+
+## 2017-11-29
+
+* 임지수
+
+  Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning
+
+* 최윤제
+
+  StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation
+
 ## 2017-11-22
 
 * 박기태
