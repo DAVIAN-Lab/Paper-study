@@ -3,6 +3,32 @@
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
 
+## 2017-12-20
+* 최성재
+  
+  Decoding with Value Networks for Neural Machine Translation 
+* 정성효
+
+  Deep Image Prior
+
+## 2017-12-13
+* 최진호
+  
+  Neural scene derendering (2017CVPR)
+
+* 강경필
+
+  A Simple but Tough-to-Beat Baseline for Sentence Embeddings(ICLR 2017)
+ 
+## 2017-12-06
+* 김태훈
+
+  Word Translation Without Parallel Data
+
+* 최태균
+
+  An Online Sequence-to-Sequence Model Using Partial Conditioning
+
 ## 2017-11-29
 
 * 임지수
