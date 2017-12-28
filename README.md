@@ -2,11 +2,16 @@
 
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
+## 2017-12-27
+* 조원웅
+
+  Toward Multimodal Image-to-Image Translation
 
 ## 2017-12-20
 * 최성재
   
   Decoding with Value Networks for Neural Machine Translation 
+
 * 정성효
 
   Deep Image Prior
