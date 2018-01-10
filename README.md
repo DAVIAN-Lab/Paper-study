@@ -2,6 +2,15 @@
 
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
+## 2018-01-03
+* 최민석
+  
+  DeepEyes: Progressive Visual Analyticsfor Designing Deep Neural Networks
+  
+* 김민정
+
+  Toward Controlled Generation of text
+
 ## 2017-12-27
 * 조원웅
 
