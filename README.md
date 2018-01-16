@@ -3,6 +3,16 @@
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
 ## 2018-01-03
+* 최윤제
+  
+  Neural Speed Reading via Skim-RNN (ICLR 2018)
+  
+* 최민제
+
+  Neural Hawkes Process
+
+
+## 2018-01-03
 * 최민석
   
   DeepEyes: Progressive Visual Analyticsfor Designing Deep Neural Networks
