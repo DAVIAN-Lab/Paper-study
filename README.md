@@ -2,6 +2,15 @@
 
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
+## 2018-01-17
+* 박기태
+
+  Adversarial attack
+  
+* 방효진
+  
+  Multi-scale Dense Networks for Resource Efficient Image Classification(MSDNet, ICLR 2018)
+
 ## 2018-01-10
 * 최윤제
   
