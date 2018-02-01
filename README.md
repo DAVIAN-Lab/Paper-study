@@ -2,6 +2,24 @@
 
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
+## 2018-01-31
+* 강경필
+
+  Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking
+  
+* 최민석
+
+  MobileNets: Efficient Convolutional Neural Networks for Mobile Vision
+
+## 2018-01-24
+* 정성효
+
+  Input Convex Neural Networks(ICML 2017)
+  
+* 김태훈
+
+  Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models
+
 ## 2018-01-17
 * 박기태
 
