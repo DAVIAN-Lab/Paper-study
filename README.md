@@ -2,6 +2,15 @@
 
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
+## 2018-02-07
+* 최성재
+
+    Building Earth Mover’s Distance on Bilingual Word Embeddings for Machine Translation
+
+* 최진호
+
+    YOLO9000: Better, Faster, Stronger
+
 ## 2018-01-31
 * 강경필
 
