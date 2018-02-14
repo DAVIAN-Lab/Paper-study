@@ -14,7 +14,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 ## 2018-01-31
 * 강경필
 
-  Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking
+  [Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking](https://drive.google.com/file/d/1-X4iZOMVgjYVBmDhEDVj7gdBmUj1yf-z/view?usp=sharing)
   
 * 최민석
 
@@ -78,7 +78,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
 * 강경필
 
-  A Simple but Tough-to-Beat Baseline for Sentence Embeddings(ICLR 2017)
+  [A Simple but Tough-to-Beat Baseline for Sentence Embeddings(ICLR 2017)](https://drive.google.com/open?id=1nXuXCBvmAAKCiM1KVtgn39IJkqOXOI9E)
  
 ## 2017-12-06
 * 김태훈
@@ -139,7 +139,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
   
 * 강경필
   
-  supervised word mover's distance
+  [supervised word mover's distance](https://drive.google.com/open?id=0B5pbHg6gugiOMWMwNV9xM05FWnc)
   
 ## 2017-10-18
 * 김태훈
