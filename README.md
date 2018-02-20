@@ -3,7 +3,11 @@
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
 ## 2018-02-14
+* 조원웅
+    2-stage detection(RCNN, Fast RCNN, Faster RCNN)
 
+* 방효진
+    AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks
 
 ## 2018-02-07
 * 최성재
