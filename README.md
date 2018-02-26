@@ -2,6 +2,15 @@
 
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
+## 2018-02-21
+* 정상헌
+
+    Single Shot Detector with Regional Attention
+    
+* 김준하
+
+    Recurrent Batch Normalization
+
 ## 2018-02-14
 * 조원웅
 
