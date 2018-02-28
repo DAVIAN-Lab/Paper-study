@@ -2,6 +2,15 @@
 
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
+## 2018-02-28
+* 김태리
+
+	Learning to Represent Programs with Graphs
+
+* 유승주
+
+	Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN
+
 ## 2018-02-21
 * 정상헌
 
