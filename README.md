@@ -2,6 +2,17 @@
 
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
+
+## 2018-03-15
+* 김태훈
+
+    Routing Networks: Adaptive Selection of Non-linear Functions for Multi-Task Learning
+    
+## 2018-03-08
+* 박천복
+
+    Unsupervised Machine Translation Using Monolingual Corpora Only
+
 ## 2018-02-28
 * 김태리
 
