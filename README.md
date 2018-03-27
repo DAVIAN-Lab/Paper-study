@@ -3,6 +3,17 @@
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
 
+
+## 2018-03-22
+* 최민제
+
+	Dynamic Word Embeddings for Evolving Semantic Discovery
+
+* 박기태
+
+	Measuring the tendency of CNNs to Learn Surface Statistical Regularities
+
+
 ## 2018-03-15
 * 김태훈
 
