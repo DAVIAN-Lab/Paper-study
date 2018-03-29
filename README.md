@@ -3,6 +3,11 @@
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
 
+## 2018-03-29
+* 강경필
+
+  Efficient Neural Architecture Search via parameter sharing
+
 
 ## 2018-03-22
 * 최민제
