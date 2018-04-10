@@ -6,7 +6,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 ## 2018-03-29
 * 강경필
 
-  Efficient Neural Architecture Search via parameter sharing
+  [Efficient Neural Architecture Search via parameter sharing](https://drive.google.com/open?id=1XniZEpyORpkOCcA1uikhNYODAQTqmpEn)
 
 
 ## 2018-03-22
