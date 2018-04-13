@@ -3,6 +3,26 @@
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
 
+## 2018-04-12
+
+* 최진호
+
+  What do Deep Networks Like to See? 
+
+* 정성효
+
+  PixelLink: Detecting Scene Text via Instance Segmentation
+
+## 2018-04-05
+* 김민정
+
+  Towards neural phrased-based mathinc translation
+  Hierarchical Multiscale Recurrent Neural Networks
+  
+* 임지수
+
+  Facelet-Bank for Fast Portrait Manipulation
+
 ## 2018-03-29
 * 강경필
 
