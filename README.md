@@ -2,9 +2,16 @@
 
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
+## 2018-04-19
+* 최민석
+
+  Topic on Tiles
+
+* 조영우
+
+  Understanding Black-box Predictions via Influence Functions
 
 ## 2018-04-12
-
 * 최진호
 
   What do Deep Networks Like to See? 
