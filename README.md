@@ -9,7 +9,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
   
 * 유승주
 
-  PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup(
+  PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup
   
 ## 2018-05-10
 * 최성하
