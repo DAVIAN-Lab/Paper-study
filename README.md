@@ -4,23 +4,29 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
 ## 2018-05-17
 * 이주림
+
   Find the Conversation Killers: a Predictive Study of Thread-ending Posts
   
 * 유승주
+
   PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup(
   
 ## 2018-05-10
 * 최성하
+
   Visualizing Deep Neural Network Decisions: Prediction Difference Analysis
 
 * 조원웅
+
   Generative Image Inpainting with Contextual Attention
 
 ## 2018-05-03
 * 방효진
+
   Counterfactual Fairness
 
 * 최성재
+
   Question Generation for Question Answering
 
 ## 2018-04-19
