@@ -23,7 +23,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 ## 2018-05-03
 * 방효진
 
-  Counterfactual Fairness
+  Counterfactual Fairness
 
 * 최성재
 
