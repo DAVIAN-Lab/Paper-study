@@ -2,6 +2,11 @@
 
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
+## 2018-05-24
+* 박천복
+
+  Latent Constraints: Learning to Generate Conditionally from Unconditional Generative Models
+
 ## 2018-05-17
 * 이주림
 
