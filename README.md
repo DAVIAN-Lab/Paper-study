@@ -2,7 +2,7 @@
 
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
-## 2018-05-24
+## 2018-05-31
 * 김태훈
 
   Born Again Neural Networks
