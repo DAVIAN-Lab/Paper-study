@@ -3,6 +3,11 @@
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
 ## 2018-05-24
+* 김태훈
+
+  Born Again Neural Networks
+  
+## 2018-05-24
 * 박천복
 
   Latent Constraints: Learning to Generate Conditionally from Unconditional Generative Models
