@@ -2,6 +2,16 @@
 
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
+## 2018-06-07
+* 박기태
+
+  Self-attention GAN
+
+* 강경필
+
+  Topical word embeddings(AAAI 2015)
+  personalized top-n sequential recommendation via convolutional sequence embedding(WSDM 2018)
+
 ## 2018-05-31
 * 김태훈
 
