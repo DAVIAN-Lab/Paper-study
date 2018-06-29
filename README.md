@@ -2,6 +2,25 @@
 
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
+## 2018-06-28
+* 최민석
+
+  Joint Embedding of Words and Labels for Text Classification 
+
+* 조영우
+
+  Synthesizing Audio with Generative Adversarial Networks
+
+
+## 2018-06-21
+* 최진호
+
+  ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation 
+
+* 정성효
+
+  Learning to See in the Dark (CVPR 2018)
+
 ## 2018-06-14
 * 강경필
 
