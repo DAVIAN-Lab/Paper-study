@@ -2,6 +2,16 @@
 
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
+## 2018-07-05
+* 최성재
+
+  Neural Storyline Extraction Model for Storyline Generation from News Articles - NAACL 2018
+  
+* 방효진
+
+  Unpaired  Image-to-Image  Translation Using  Cycle-Consistent  Adversarial  Networks
+
+
 ## 2018-06-28
 * 최민석
 
