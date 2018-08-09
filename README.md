@@ -2,6 +2,11 @@
 
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
+## 2018-08-02
+* 강경필
+
+  [Outer Product Based Neural Collaborative Filtering](https://drive.google.com/file/d/1QXor_gW7biif84pQx3hZ-HjA79Q2dO34/view?usp=sharing)
+
 ## 2018-07-05
 * 최성재
 
