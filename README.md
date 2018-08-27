@@ -1,11 +1,71 @@
+test weher am I
 # Paper-study
 
 Davian Lab 논문 스터디를 위한 저장소입니다.
 
+## 2018-08-23
+* 조영우
+
+  Deep Complex Networks
+  
+* 조원웅
+
+  DiveRse Image-to-image Translation from unpaired data
+
+
+## 2018-08-16
+* 최민석
+
+  An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling
+
+* 조용장
+
+  Interpretable Convolutional Neural Networks
+
+## 2018-08-09
+* 최성하
+
+  Bootstrapping the performance of webly supervised semantic segmentation
+  
+* 최성재
+
+  Multi-Channel Encoder for Neural Machine Translation 
+  
 ## 2018-08-02
 * 강경필
 
   [Outer Product Based Neural Collaborative Filtering](https://drive.google.com/file/d/1QXor_gW7biif84pQx3hZ-HjA79Q2dO34/view?usp=sharing)
+
+* 박천복
+
+  Memory-augmented Neural Networks A to G
+
+## 2018-07-26
+* 방효진
+
+   Glow: Generative Flow with Invertible 1x1 Convolutions
+
+* 유승주
+
+  CartoonGAN: Generative Adversarial Networks for Photo Cartoonization
+
+## 2018-07-19
+* 이주림
+
+  Attributed Social Network Embedding
+
+* 최진호
+
+  Efficient  Interactive  Annotation  of  Segmentation  Datasets  with  Polygon-RNN++
+
+## 2018-07-12
+* 최성하
+
+  evisiting Dilated Convolution: A Simple Approach for Weakly- and Semi- Supervised Semantic Segmentation - CVPR 2018
+
+* 조원웅
+
+  Unsupervised Image-to-Image Translation Networks
 
 ## 2018-07-05
 * 최성재
