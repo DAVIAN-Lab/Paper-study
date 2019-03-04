@@ -4,6 +4,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 ## 2019
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
+| 26th February, 2019 | 5-10 minutes on your research | All |
 | 19th February, 2019 | [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/abs/1801.07698) | 나상현 | [Slides](https://www.dropbox.com/s/bas37p42khaw9ab/ArcFace.pdf?dl=0)
 | 19th February, 2019 | [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) | 이윤성 | [Slides](https://drive.google.com/open?id=1NUzl_co9Olxr0-ukiNmFV52c3ZDB4Kj8)
 | 12nd February, 2019 | [A Probabilistic U-Net for Segmentation of Ambiguous Images](https://arxiv.org/abs/1806.05034) | 이윤성 | [Slides](https://drive.google.com/open?id=1eJdkzmXTcXxqKqwQnPAindR6WWXjRX-K)
@@ -21,7 +22,149 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
 ## 2018
 
-## 2018-08-23
+### 2018-12-26
+* 나상현
+
+  cGANs with Projection Discriminator
+
+* 조용장
+
+  GAN Dissection: Visualizing and Understanding Generative Adversarial Networks
+
+
+### 2018-12-11
+* 최성하
+
+  Unsupervised Domain Adaptation for Distance Metric Learning
+
+* 조원웅
+
+  Local image to image translation via pixel-wise highway adaptive instance normalization
+
+
+### 2018-12-04
+* 유승주
+
+  Learning to Anonymize Faces for Privacy Preserving Action Detection
+
+* 조용장
+
+  Fine-tuning Convolutional Neural Networks for Biomedical Image Analysis: Actively and Incrementally
+
+
+### 2018-11-27
+* 최민석
+
+  Graph Attention Networks
+
+* 정성효
+
+  Deep sketch hashing
+
+
+### 2018-11-20
+* 강경필
+
+  Interactive Attention Networks for Aspect-Level Sentiment Classification  
+  Recurrent Attention Network on Memory for Aspect Sentiment Analysis
+
+* 방효진
+
+  Learning Confidence for Out-of-Distribution Detection in Neural Networks
+
+
+### 2018-11-13
+* 박천복
+
+  Pay Less Attention with Lightweight and Dynamic Convolutions
+
+* 최성재
+
+  Coarse-grain fine-grain coattention network for multi-evidence question answering  
+  Hotpotqa: Adataset for diverse, explainable multi-hop question answering
+
+### 2018-11-06
+* 이윤성
+
+  Non-local Neural Networks
+
+* 조영우
+
+  Why does deep and cheap learning work so well?  
+  Geometry of energy landscapes and the optimizability of deep neural networks
+
+
+### 2018-10-30
+* 나상현
+
+  Spectral Normalization for Generative Adversarial Network
+
+* 최진호
+
+  Interactive Scribble Annotation
+
+
+### 2018-10-16
+* 최성하
+
+  Adversarial Discriminative Domain Adaptation
+
+* 조원웅
+
+  Instance-aware Image-to-Image Translation
+
+### 2018-10-09
+* 강경필
+
+  Self-supervised learning of visual features through embedding images into text topic spaces
+
+* 조용장
+
+  Abnormal Colon Polyp Image Synthesis Using Conditional Adversarial Networks for Improved Detection Performance
+
+
+### 2018-10-01
+* 최민석
+
+  Group Normalization
+
+* 박천복
+
+  Extreme Adaptation for Personalized Neural Machine Translation  
+  Neural Arithmetic Logic Units
+
+
+### 2018-09-19
+* 조영우
+
+  Capacity and Trainability in Recurrent Neural Networks
+
+* 최성재
+
+  A deep reinforced model for abstractive summarization
+
+
+### 2018-09-06
+* 방효진
+
+  Explaining and Harnessing Adversarial Examples
+
+* 유승주
+
+  Neural Map: Structured Memory for Deep Reinforcement Learning 
+
+
+### 2018-08-30
+* 최진호
+
+  Tracking Emerges by Colorizing Videos
+
+* 이윤성
+
+  Depth-aware CNN for RGB-D Segmentation
+
+
+### 2018-08-23
 * 조영우
 
   Deep Complex Networks
@@ -31,7 +174,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
   DiveRse Image-to-image Translation from unpaired data
 
 
-## 2018-08-16
+### 2018-08-16
 * 최민석
 
   An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling
@@ -40,7 +183,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   Interpretable Convolutional Neural Networks
 
-## 2018-08-09
+### 2018-08-09
 * 최성하
 
   Bootstrapping the performance of webly supervised semantic segmentation
@@ -49,7 +192,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   Multi-Channel Encoder for Neural Machine Translation 
   
-## 2018-08-02
+### 2018-08-02
 * 강경필
 
   [Outer Product Based Neural Collaborative Filtering](https://drive.google.com/file/d/1QXor_gW7biif84pQx3hZ-HjA79Q2dO34/view?usp=sharing)
@@ -58,7 +201,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   Memory-augmented Neural Networks A to G
 
-## 2018-07-26
+### 2018-07-26
 * 방효진
 
    Glow: Generative Flow with Invertible 1x1 Convolutions
@@ -67,7 +210,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   CartoonGAN: Generative Adversarial Networks for Photo Cartoonization
 
-## 2018-07-19
+### 2018-07-19
 * 이주림
 
   Attributed Social Network Embedding
@@ -76,7 +219,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   Efficient  Interactive  Annotation  of  Segmentation  Datasets  with  Polygon-RNN++
 
-## 2018-07-12
+### 2018-07-12
 * 최성하
 
   evisiting Dilated Convolution: A Simple Approach for Weakly- and Semi- Supervised Semantic Segmentation - CVPR 2018
@@ -85,7 +228,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   Unsupervised Image-to-Image Translation Networks
 
-## 2018-07-05
+### 2018-07-05
 * 최성재
 
   Neural Storyline Extraction Model for Storyline Generation from News Articles - NAACL 2018
@@ -95,7 +238,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
   Unpaired  Image-to-Image  Translation Using  Cycle-Consistent  Adversarial  Networks
 
 
-## 2018-06-28
+### 2018-06-28
 * 최민석
 
   Joint Embedding of Words and Labels for Text Classification 
@@ -105,7 +248,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
   Synthesizing Audio with Generative Adversarial Networks
 
 
-## 2018-06-21
+### 2018-06-21
 * 최진호
 
   ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation 
@@ -114,14 +257,14 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   Learning to See in the Dark (CVPR 2018)
 
-## 2018-06-14
+### 2018-06-14
 * 강경필
 
   Topical word embeddings(AAAI 2015)
   
   Personalized top-n sequential recommendation via convolutional sequence embedding(WSDM 2018)
   
-## 2018-06-07
+### 2018-06-07
 * 박기태
 
   Self-attention GAN
@@ -130,17 +273,17 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   Community Interaction and Conflict on the Web
 
-## 2018-05-31
+### 2018-05-31
 * 김태훈
 
   Born Again Neural Networks
   
-## 2018-05-24
+### 2018-05-24
 * 박천복
 
   Latent Constraints: Learning to Generate Conditionally from Unconditional Generative Models
 
-## 2018-05-17
+### 2018-05-17
 * 이주림
 
   Find the Conversation Killers: a Predictive Study of Thread-ending Posts
@@ -149,7 +292,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup
   
-## 2018-05-10
+### 2018-05-10
 * 최성하
 
   Visualizing Deep Neural Network Decisions: Prediction Difference Analysis
@@ -158,7 +301,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   Generative Image Inpainting with Contextual Attention
 
-## 2018-05-03
+### 2018-05-03
 * 방효진
 
   Counterfactual Fairness
@@ -167,7 +310,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   Question Generation for Question Answering
 
-## 2018-04-19
+### 2018-04-19
 * 최민석
 
   Topic on Tiles
@@ -176,7 +319,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   Understanding Black-box Predictions via Influence Functions
 
-## 2018-04-12
+### 2018-04-12
 * 최진호
 
   What do Deep Networks Like to See? 
@@ -185,7 +328,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   PixelLink: Detecting Scene Text via Instance Segmentation
 
-## 2018-04-05
+### 2018-04-05
 * 김민정
 
   Towards neural phrased-based mathinc translation
@@ -195,13 +338,13 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   Facelet-Bank for Fast Portrait Manipulation
 
-## 2018-03-29
+### 2018-03-29
 * 강경필
 
   [Efficient Neural Architecture Search via parameter sharing](https://drive.google.com/open?id=1XniZEpyORpkOCcA1uikhNYODAQTqmpEn)
 
 
-## 2018-03-22
+### 2018-03-22
 * 최민제
 
 	Dynamic Word Embeddings for Evolving Semantic Discovery
@@ -211,17 +354,17 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 	Measuring the tendency of CNNs to Learn Surface Statistical Regularities
 
 
-## 2018-03-15
+### 2018-03-15
 * 김태훈
 
     Routing Networks: Adaptive Selection of Non-linear Functions for Multi-Task Learning
     
-## 2018-03-08
+### 2018-03-08
 * 박천복
 
     Unsupervised Machine Translation Using Monolingual Corpora Only
 
-## 2018-02-28
+### 2018-02-28
 * 김태리
 
 	Learning to Represent Programs with Graphs
@@ -230,7 +373,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
 	Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN
 
-## 2018-02-21
+### 2018-02-21
 * 정상헌
 
     Single Shot Detector with Regional Attention
@@ -239,7 +382,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
     Recurrent Batch Normalization
 
-## 2018-02-14
+### 2018-02-14
 * 조원웅
 
     2-stage detection(RCNN, Fast RCNN, Faster RCNN)
@@ -248,7 +391,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
     AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks
 
-## 2018-02-07
+### 2018-02-07
 * 최성재
 
     Building Earth Mover’s Distance on Bilingual Word Embeddings for Machine Translation
@@ -257,7 +400,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
     YOLO9000: Better, Faster, Stronger
 
-## 2018-01-31
+### 2018-01-31
 * 강경필
 
   [Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking](https://drive.google.com/file/d/1-X4iZOMVgjYVBmDhEDVj7gdBmUj1yf-z/view?usp=sharing)
@@ -266,7 +409,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   MobileNets: Efficient Convolutional Neural Networks for Mobile Vision
 
-## 2018-01-24
+### 2018-01-24
 * 정성효
 
   Input Convex Neural Networks(ICML 2017)
@@ -275,7 +418,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models
 
-## 2018-01-17
+### 2018-01-17
 * 박기태
 
   Adversarial attack
@@ -284,7 +427,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
   
   Multi-scale Dense Networks for Resource Efficient Image Classification(MSDNet, ICLR 2018)
 
-## 2018-01-10
+### 2018-01-10
 * 최윤제
   
   Neural Speed Reading via Skim-RNN (ICLR 2018)
@@ -294,7 +437,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
   Neural Hawkes Process
 
 
-## 2018-01-03
+### 2018-01-03
 * 최민석
   
   DeepEyes: Progressive Visual Analyticsfor Designing Deep Neural Networks
@@ -303,12 +446,12 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   Toward Controlled Generation of text
 
-## 2017-12-27
+### 2017-12-27
 * 조원웅
 
   Toward Multimodal Image-to-Image Translation
 
-## 2017-12-20
+### 2017-12-20
 * 최성재
   
   Decoding with Value Networks for Neural Machine Translation 
@@ -317,7 +460,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   Deep Image Prior
 
-## 2017-12-13
+### 2017-12-13
 * 최진호
   
   Neural scene derendering (2017CVPR)
@@ -326,7 +469,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   [A Simple but Tough-to-Beat Baseline for Sentence Embeddings(ICLR 2017)](https://drive.google.com/open?id=1nXuXCBvmAAKCiM1KVtgn39IJkqOXOI9E)
  
-## 2017-12-06
+### 2017-12-06
 * 김태훈
 
   Word Translation Without Parallel Data
@@ -335,7 +478,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   An Online Sequence-to-Sequence Model Using Partial Conditioning
 
-## 2017-11-29
+### 2017-11-29
 
 * 임지수
 
@@ -345,7 +488,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation
 
-## 2017-11-22
+### 2017-11-22
 
 * 박기태
 
@@ -355,12 +498,12 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   An End-to-End Spatio-Temporal Attention Model for Human Action Recognition from Skeleton Data
 
-## 2017-11-15
+### 2017-11-15
 * 최민제
 
   Dynamic Routing Between Capsules
 
-## 2017-11-08
+### 2017-11-08
 * 조원웅
 
   Robust Image Sentiment Analysis Using Progressively Trained and Domain Transferred Deep Networks
@@ -369,7 +512,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   Gated Word-Character Recurrent Language Model
 
-## 2017-11-01
+### 2017-11-01
 * 최민석
   
   Synthesized Classifiers for Zero-Shot
@@ -378,7 +521,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   Deep  Compositional Question Answering with Neural Module Networks 
   
-## 2017-10-25
+### 2017-10-25
 * 최진호
   
   Get To the Point: Summarization with Pointer-Generator Networks
@@ -387,7 +530,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
   
   [supervised word mover's distance](https://drive.google.com/open?id=0B5pbHg6gugiOMWMwNV9xM05FWnc)
   
-## 2017-10-18
+### 2017-10-18
 * 김태훈
     
     [Learning to remember rare events](https://www.dropbox.com/s/opfp8zb0f2wtoy8/Learning%20to%20remember%20rare%20events_%EA%B9%80%ED%83%9C%ED%9B%88_20171018.pdf?dl=0)
@@ -400,7 +543,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition
 
-## 2017-10-11
+### 2017-10-11
 * 최태균
 
   DiSAN: Directional Self-Attention Network for RNN/CNN-free Language Understanding 입니다.
@@ -409,7 +552,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   The Conditional Analogy GAN: Swapping Fashion Articles on People Images
 
-## 2017-09-20
+### 2017-09-20
 * 박기태
 
   Learning Transferable Architectures for Scalable Image Recognition
@@ -418,21 +561,21 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 
   Patient Subtyping via Time-Aware LSTM Networks
 
-## 2017-09-13
+### 2017-09-13
 * 김민정
 
   Constituent-Centric Neural Architecture for Reading Comprehension
   
-## 2017-09-06
+### 2017-09-06
 * Kyeongpil Kang
     [Factorized Variational Autoencoders for Modeling Audience Reactions to Movies](https://drive.google.com/open?id=0B5pbHg6gugiOalNrbUpyQm81UlU)
     - Tensor factorization과 Variational Autoencoder를 결합함
     - 각 사람에 대해, 각 시간에 대한 latent vector z를 생성하고 이를 decoder에서 image(face landmark) 복원
 
 
-## 2017-08-30
+### 2017-08-30
 
-## 2017-08-24
+### 2017-08-24
 * JinHo Choi
 
     [Learning Cooperative Visual Dialog Agents With Deep Reinforcement](https://www.dropbox.com/s/27my4nn6v0yigjw/Learning%20Cooperative%20Visual%20Dialog%20Agents%20with%20Deep%20Reinforcement.pptx?dl=0)
@@ -447,7 +590,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
     - Adverarial example 생성하기 위해 "fast gradient sign method"를 제시함
 
 
-## 2017-08-17
+### 2017-08-17
 * Choi Taekyoon
 
     [End-to-end Neural Coreference Resolution](https://www.dropbox.com/s/ftfd9uwlbbkakgf/End2end_neural_coreference_resolution.pdf?dl=0)
@@ -462,11 +605,11 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
     - skip-gram, Gaussian Mixture Model, Sparsity를 활용하여 skip gram의 Word2Vec에
     Topic별 발생 확율을 곱해 doc2vec을 생성한 모델입니다.
 
-## 2017-08-09
+### 2017-08-09
 * Keetae Park
 
     [A Persona-Based Neural Conversation Model](https://drive.google.com/open?id=0B9xAbjSTQ9G1SmZIWWU4VmRWdFE)
-    - Standford  박사인 Jiwei Li와 Microsoft가 합작하여 연구한 논문으로, 2016년에 ACL에서 발표되었습니다.
+    - Standford  박사인 Jiwei Li와 Microsoft가 합작하여 연구한 논문으로, 2016년에 ACL에서 발표되었습니다.
     - 이 연구분야는 NLP에서 Neural Conversation Models 혹은 Neural Dialogue Generation으로 불리며, Open-domain Chatbot과 personal assistant와 같은 Conversation AI가 궁극적인 목표입니다
     - 본 논문에서는 기존에 사용하던 Seq2seq + MLE의 알고리즘의 Decoder에서 각 단어를 예측할 때 사용자 정보를 의미하는 Vi 벡터를 삽입함으로써, 기존의 generic하며 dull한 응답을 개선하고 chatbot에도 character를 입힐 수 있다는 점을 보였습니다.
     - Vi 벡터를 삽입하는 방법으로 Speaker Model과 Speaker-Addressee Model 등 두 모형을 제시하는데, Speaker Model은 응답자의 성격만 고려하는데 반하여 Speak-addressee Model은 질문자와 응답자의 관계 또한 고려하여 서로 다른 대화상대자에 따라 달라지는 자세를 반영할 수 있게 하였습니다.
@@ -484,7 +627,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 	  VGG 16 에 수집된 이미지들을 학습시켜 차량이 안전하게 차선 변경이 가능한지의 여부를 학습니다.
 
 
-## 2017-08-03
+### 2017-08-03
 * Kyeongpil Kang
 
 	[Quasi-Recurrent Neural Netowrks](https://drive.google.com/open?id=0B5pbHg6gugiOM1BoR1liN1lwcEE)
@@ -509,7 +652,7 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 	- Model-Based planning Method인 MCTS와 결합해 사용할 경우 computation cost는 18배 정도 줄어들었음
 
 
-## 2017-07-27
+### 2017-07-27
 * Taehun Kim
 
     [Word Embedding Based Correlation Model for Question Answer Matching - AAAI 2017](https://www.dropbox.com/s/pf9yrewgejjbu2t/Word%20Embedding%20Based%20Correlation%20Model%20for%20Question%20Answer%20Matching_%EA%B9%80%ED%83%9C%ED%9B%88_20170727.pdf?dl=0)
