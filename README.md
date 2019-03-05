@@ -1,7 +1,7 @@
-# Paper-study
+# DAVIAN Lab. Seminar (2019)
 
-Davian Lab 논문 스터디를 위한 저장소입니다.
-## 2019
+### Time: Tuesday 18:30 - 22:00
+
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
 | 5th March, 2019 | [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400) <br/> [Learning to Compare: Relation Network for Few-Shot Learning](https://arxiv.org/abs/1711.06025) | 조원웅 | [Slides](https://drive.google.com/open?id=1lHOvRoj46huEA8dxQAIVgnf37qIG1H2U)
