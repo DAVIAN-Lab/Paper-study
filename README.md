@@ -4,6 +4,8 @@ Davian Lab 논문 스터디를 위한 저장소입니다.
 ## 2019
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
+| 5th March, 2019 | [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400) <br/> [Learning to Compare: Relation Network for Few-Shot Learning](https://arxiv.org/abs/1711.06025) | 조원웅 | [Slides](https://drive.google.com/open?id=1lHOvRoj46huEA8dxQAIVgnf37qIG1H2U)
+| 5th March, 2019 | [ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness](https://arxiv.org/abs/1811.12231) | 김태성 | [Slides](https://www.dropbox.com/s/txueizrm1xicw8t/190305_ImageNet-trained%20CNNs%20are%20biased%20towards%20texture_ppt_%EA%B9%80%ED%83%9C%EC%84%B1.pdf?dl=0)
 | 26th February, 2019 | 5-10 minutes on your research | All |
 | 19th February, 2019 | [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/abs/1801.07698) | 나상현 | [Slides](https://www.dropbox.com/s/bas37p42khaw9ab/ArcFace.pdf?dl=0)
 | 19th February, 2019 | [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) | 이윤성 | [Slides](https://drive.google.com/open?id=1NUzl_co9Olxr0-ukiNmFV52c3ZDB4Kj8)
