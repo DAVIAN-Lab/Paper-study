@@ -6,22 +6,22 @@
 |:----------------:|:----------------------------------------:|:----------:|:------:|
 | 12nd March, 2019 | [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146) | 김용규 | [Slides](https://drive.google.com/file/d/1O_DD4weqVnlJjoxRfioUnTDa2bgPfsIX/view?usp=sharing)
 | 12nd March, 2019 | [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670) | 김진희 | [Slides](https://drive.google.com/file/d/1sjIfXPA-gP07hq-WZJnPYOlbCkvFGwYf/view?usp=sharing)
-| 5th March, 2019 | [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400) <br/> [Learning to Compare: Relation Network for Few-Shot Learning](https://arxiv.org/abs/1711.06025) | 조원웅 | [Slides](https://drive.google.com/open?id=1lHOvRoj46huEA8dxQAIVgnf37qIG1H2U)
-| 5th March, 2019 | [ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness](https://arxiv.org/abs/1811.12231) | 김태성 | [Slides](https://www.dropbox.com/s/txueizrm1xicw8t/190305_ImageNet-trained%20CNNs%20are%20biased%20towards%20texture_ppt_%EA%B9%80%ED%83%9C%EC%84%B1.pdf?dl=0)
+| 5th March, 2019 | [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400) <br/> [Learning to Compare: Relation Network for Few-Shot Learning](https://arxiv.org/abs/1711.06025) | 조원웅 | [Slides](https://drive.google.com/file/d/1vlF2Ra2OReMnHEE_RDUlDgvt7Yxr-54n/view?usp=sharing)
+| 5th March, 2019 | [ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness](https://arxiv.org/abs/1811.12231) | 김태성 | [Slides](https://drive.google.com/file/d/1vVmvQCak1hG7DF_uV_4tdJ9DHpA2JC1g/view?usp=sharing)
 | 26th February, 2019 | 5-10 minutes on your research | All |
-| 19th February, 2019 | [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/abs/1801.07698) | 나상현 | [Slides](https://www.dropbox.com/s/bas37p42khaw9ab/ArcFace.pdf?dl=0)
+| 19th February, 2019 | [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/abs/1801.07698) | 나상현 | [Slides](https://drive.google.com/file/d/1zfm03t6O8bF9Ulpaj0zIp_ncuWZBnqoQ/view?usp=sharing)
 | 19th February, 2019 | [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) | 이윤성 | [Slides](https://docs.google.com/presentation/d/1rX5NK_0lzoNaQlqzU4-BkmQDcQcd2X7ljaOpuyFrYOQ/edit?usp=sharing)
 | 12nd February, 2019 | [A Probabilistic U-Net for Segmentation of Ambiguous Images](https://arxiv.org/abs/1806.05034) | 이윤성 | [Slides](https://drive.google.com/open?id=15BUzPUtdePBpNDjoszs0nkoNKqWdamIbXeYDyoU7ZQc)
 | 12nd February, 2019 | [A2-Nets: Double Attention Networks](https://arxiv.org/abs/1810.11579) | 최성하 | [Slides](https://drive.google.com/file/d/1evUDaYYP4zegoYVzNWdEYCMe0OVglfIl/view?usp=sharing)
 | 29th January, 2019 | [Learning to Segment Every Thing](https://arxiv.org/abs/1711.10370) | 정성효 | [Slides](https://drive.google.com/file/d/1sxpCDT9ouhXujRlRGzrOnr3JwIIMGFC7/view?usp=sharing) |
-| 29th January, 2019 | [Sequential Recommender System based on Hierarchical Attention Networks](https://www.ijcai.org/proceedings/2018/546) | 강경필 | [Slides](http://tinyurl.com/y7884fcb) |
+| 29th January, 2019 | [Sequential Recommender System based on Hierarchical Attention Networks](https://www.ijcai.org/proceedings/2018/546) | 강경필 | [Slides](https://drive.google.com/file/d/1XfvocdWRV5kWZ1f_I28nOaXWvOU71xvB/view?usp=sharing) |
 | 22nd January, 2019 | [Content preserving text generation with attribute controls](https://arxiv.org/abs/1811.01135) | 최성재 | [Slides](https://drive.google.com/open?id=16F7cnwTRUyq1vpOlbD0drC1auM46MXE1) |
-| 15th January, 2019 | [Unsupervised Adversarial Invariance](https://arxiv.org/abs/1809.10083) | 박기태 | [Slides](https://drive.google.com/file/d/1YUMttx2WeTlic_P702dHgYB1kOpm0xzx/view?usp=sharing) |
-| 15th January, 2019 | [Seq2Seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models](https://arxiv.org/abs/1804.09299) | 최민석 | [Slides](https://www.dropbox.com/s/a5ga3v97ilb7rxk/190115_Seq2SeqVis.pdf?dl=0) |
-| 9th January, 2019 | [Posterior Attention Models for Sequence to Sequence Learning](https://openreview.net/forum?id=BkltNhC9FX) | 박천복 | [Slides](https://www.dropbox.com/s/6hl7p6fbkqrzimu/Posterior%20Attention%20Models.pdf?dl=0)
+| 15th January, 2019 | [Unsupervised Adversarial Invariance](https://arxiv.org/abs/1809.10083) | 박기태 | [Slides](https://drive.google.com/file/d/1JKnjYvatkB4it8eI7-xifjUyQB3s6m_S/view?usp=sharing) |
+| 15th January, 2019 | [Seq2Seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models](https://arxiv.org/abs/1804.09299) | 최민석 | [Slides](https://drive.google.com/file/d/1D6Cx9IWj85kQ0nQ8q99WTN_bvxcQ26Wx/view?usp=sharing) |
+| 9th January, 2019 | [Posterior Attention Models for Sequence to Sequence Learning](https://openreview.net/forum?id=BkltNhC9FX) | 박천복 | [Slides](https://drive.google.com/file/d/1wrBmWCmWo9ThVbAqAIzVw-knhGZ6rruH/view?usp=sharing)
 | 9th January, 2019 | [Generative modeling for protein structures](http://papers.nips.cc/paper/7978-generative-modeling-for-protein-structures) | 조영우 | [Slides](https://drive.google.com/file/d/1E0ko9ZvKKTJ0MzVQiHqGyV1B2igAbjMj/view?usp=sharing)
-| 2nd January, 2019 | [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) | 방효진 | [Slides]( https://drive.google.com/file/d/1fnGfVRn8hz58elkLeHSp9_T3vMCJ60GR/view?usp=sharing)
-| 2nd January, 2019 | [Adaptive Posterior Learning: few-shot learning with a surprise-based memory module](https://arxiv.org/abs/1902.02527) | 유승주 | [Slides](https://drive.google.com/file/d/1isPdNwMvp9cqvz0GAMqCjMGPNXwqQKuW/view?usp=sharing)
+| 2nd January, 2019 | [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) | 방효진 | [Slides](https://drive.google.com/file/d/1zwdZA00rPI4LiKYsV20UEAC2q1xrg5iE/view?usp=sharing)
+| 2nd January, 2019 | [Adaptive Posterior Learning: few-shot learning with a surprise-based memory module](https://arxiv.org/abs/1902.02527) | 유승주 | [Slides](https://drive.google.com/file/d/1jsVbEo2X03hCRBCBODHi-F5oalayLflK/view?usp=sharing)
 
 
 ## 2018
