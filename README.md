@@ -8,16 +8,16 @@
 | 5th March, 2019 | [ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness](https://arxiv.org/abs/1811.12231) | 김태성 | [Slides](https://www.dropbox.com/s/txueizrm1xicw8t/190305_ImageNet-trained%20CNNs%20are%20biased%20towards%20texture_ppt_%EA%B9%80%ED%83%9C%EC%84%B1.pdf?dl=0)
 | 26th February, 2019 | 5-10 minutes on your research | All |
 | 19th February, 2019 | [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/abs/1801.07698) | 나상현 | [Slides](https://www.dropbox.com/s/bas37p42khaw9ab/ArcFace.pdf?dl=0)
-| 19th February, 2019 | [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) | 이윤성 | [Slides](https://drive.google.com/open?id=1NUzl_co9Olxr0-ukiNmFV52c3ZDB4Kj8)
-| 12nd February, 2019 | [A Probabilistic U-Net for Segmentation of Ambiguous Images](https://arxiv.org/abs/1806.05034) | 이윤성 | [Slides](https://drive.google.com/open?id=1eJdkzmXTcXxqKqwQnPAindR6WWXjRX-K)
-| 12nd February, 2019 | [A2-Nets: Double Attention Networks](https://arxiv.org/abs/1810.11579) | 최성하 | [Slides](https://drive.google.com/file/d/1SIEcbBMeUV31gY_ts6-Sfqc9_LGRXTFq/view?usp=sharing)
-| 29th January, 2019 | [Learning to Segment Every Thing](https://arxiv.org/abs/1711.10370) | 정성효 | [Slides](https://www.dropbox.com/s/5o0obzic7xw4yuf/Learning_to_segment_every_thing_sunghyo.pdf?dl=0) |
+| 19th February, 2019 | [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) | 이윤성 | [Slides](https://docs.google.com/presentation/d/1rX5NK_0lzoNaQlqzU4-BkmQDcQcd2X7ljaOpuyFrYOQ/edit?usp=sharing)
+| 12nd February, 2019 | [A Probabilistic U-Net for Segmentation of Ambiguous Images](https://arxiv.org/abs/1806.05034) | 이윤성 | [Slides](https://drive.google.com/open?id=15BUzPUtdePBpNDjoszs0nkoNKqWdamIbXeYDyoU7ZQc)
+| 12nd February, 2019 | [A2-Nets: Double Attention Networks](https://arxiv.org/abs/1810.11579) | 최성하 | [Slides](https://drive.google.com/file/d/1evUDaYYP4zegoYVzNWdEYCMe0OVglfIl/view?usp=sharing)
+| 29th January, 2019 | [Learning to Segment Every Thing](https://arxiv.org/abs/1711.10370) | 정성효 | [Slides](https://drive.google.com/file/d/1sxpCDT9ouhXujRlRGzrOnr3JwIIMGFC7/view?usp=sharing) |
 | 29th January, 2019 | [Sequential Recommender System based on Hierarchical Attention Networks](https://www.ijcai.org/proceedings/2018/546) | 강경필 | [Slides](http://tinyurl.com/y7884fcb) |
-| 22nd January, 2019 | [Content preserving text generation with attribute controls](https://arxiv.org/abs/1811.01135) | 최성재 | [Slides](https://drive.google.com/open?id=1vBlHKS2w3FGL0-Gbw0-NQgZlhJnzViqP) |
+| 22nd January, 2019 | [Content preserving text generation with attribute controls](https://arxiv.org/abs/1811.01135) | 최성재 | [Slides](https://drive.google.com/open?id=16F7cnwTRUyq1vpOlbD0drC1auM46MXE1) |
 | 15th January, 2019 | [Unsupervised Adversarial Invariance](https://arxiv.org/abs/1809.10083) | 박기태 | [Slides](https://drive.google.com/file/d/1YUMttx2WeTlic_P702dHgYB1kOpm0xzx/view?usp=sharing) |
 | 15th January, 2019 | [Seq2Seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models](https://arxiv.org/abs/1804.09299) | 최민석 | [Slides](https://www.dropbox.com/s/a5ga3v97ilb7rxk/190115_Seq2SeqVis.pdf?dl=0) |
 | 9th January, 2019 | [Posterior Attention Models for Sequence to Sequence Learning](https://openreview.net/forum?id=BkltNhC9FX) | 박천복 | [Slides](https://www.dropbox.com/s/6hl7p6fbkqrzimu/Posterior%20Attention%20Models.pdf?dl=0)
-| 9th January, 2019 | [Generative modeling for protein structures](http://papers.nips.cc/paper/7978-generative-modeling-for-protein-structures) | 조영우 | [Slides](https://goo.gl/kc7K9U)
+| 9th January, 2019 | [Generative modeling for protein structures](http://papers.nips.cc/paper/7978-generative-modeling-for-protein-structures) | 조영우 | [Slides](https://drive.google.com/file/d/1E0ko9ZvKKTJ0MzVQiHqGyV1B2igAbjMj/view?usp=sharing)
 | 2nd January, 2019 | [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) | 방효진 | [Slides]( https://drive.google.com/file/d/1fnGfVRn8hz58elkLeHSp9_T3vMCJ60GR/view?usp=sharing)
 | 2nd January, 2019 | [Adaptive Posterior Learning: few-shot learning with a surprise-based memory module](https://arxiv.org/abs/1902.02527) | 유승주 | [Slides](https://drive.google.com/file/d/1isPdNwMvp9cqvz0GAMqCjMGPNXwqQKuW/view?usp=sharing)
 
