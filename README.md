@@ -4,6 +4,8 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
+| 12nd March, 2019 | [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146) | 김용규 | [Slides](https://drive.google.com/file/d/1O_DD4weqVnlJjoxRfioUnTDa2bgPfsIX/view?usp=sharing)
+| 12nd March, 2019 | [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670) | 김진희 | [Slides](https://drive.google.com/file/d/1sjIfXPA-gP07hq-WZJnPYOlbCkvFGwYf/view?usp=sharing)
 | 5th March, 2019 | [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400) <br/> [Learning to Compare: Relation Network for Few-Shot Learning](https://arxiv.org/abs/1711.06025) | 조원웅 | [Slides](https://drive.google.com/open?id=1lHOvRoj46huEA8dxQAIVgnf37qIG1H2U)
 | 5th March, 2019 | [ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness](https://arxiv.org/abs/1811.12231) | 김태성 | [Slides](https://www.dropbox.com/s/txueizrm1xicw8t/190305_ImageNet-trained%20CNNs%20are%20biased%20towards%20texture_ppt_%EA%B9%80%ED%83%9C%EC%84%B1.pdf?dl=0)
 | 26th February, 2019 | 5-10 minutes on your research | All |
