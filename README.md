@@ -4,6 +4,8 @@
 
 |       Date       | Topic | Presenters | Slides | Videos |
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:|
+| 19th March, 2019 | [Referring Relationships](https://arxiv.org/abs/1803.10362) <br/> [Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language](https://arxiv.org/abs/1810.11919) | Kyeongpil Kang | [Slides](https://drive.google.com/file/d/1ER4P0J4V2KH_K3A8yE39OZaBfe2mm7gV/view?usp=sharing) | [Videos](https://www.youtube.com/watch?v=cgG7SSWzm7s&feature=youtu.be)
+| 19th March, 2019 | [Partial Adversarial Domain Adaptation](https://arxiv.org/abs/1808.04205) | Kangyeol Kim | [Slides](https://drive.google.com/file/d/1uLiDpLT_CFkT-fVF4zgK270tXcJrPBxs/view?usp=sharing) | [Videos](https://www.youtube.com/watch?v=cgG7SSWzm7s&feature=youtu.be)
 | 12nd March, 2019 | [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146) | Yonggyu Kim | [Slides](https://drive.google.com/file/d/1O_DD4weqVnlJjoxRfioUnTDa2bgPfsIX/view?usp=sharing) | [Videos](https://youtu.be/2cJzsodj8Us)
 | 12nd March, 2019 | [Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670) | Jinhee Kim | [Slides](https://drive.google.com/file/d/1sjIfXPA-gP07hq-WZJnPYOlbCkvFGwYf/view?usp=sharing) | [Videos](https://youtu.be/2cJzsodj8Us)
 | 5th March, 2019 | [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400) <br/> [Learning to Compare: Relation Network for Few-Shot Learning](https://arxiv.org/abs/1711.06025) | Wonwoong Cho | [Slides](https://drive.google.com/file/d/1vlF2Ra2OReMnHEE_RDUlDgvt7Yxr-54n/view?usp=sharing)
