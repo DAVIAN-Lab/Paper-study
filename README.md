@@ -4,6 +4,10 @@
 
 |       Date       | Topic | Presenters | Slides | Videos |
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:|
+| 2nd April, 2019 | [Progressive Color Transfer with Dense Semantic Correspondences](https://arxiv.org/abs/1710.00756) | Dongjun Kim | [Slides](https://drive.google.com/file/d/11WIRRTZavXw1zt6NjSSuNXAaKurzj7q5/view?usp=sharing) | [Videos]()
+| 2nd April, 2019 | [Learning Disentangled Joint Continuous and Discrete Representations](https://arxiv.org/abs/1804.00104) | Daehoon Gwak | [Slides](https://drive.google.com/file/d/1GOiNj20PzLrM5-1WpSdSQ0CQEljV1iZ_/view?usp=sharing) | [Videos]()
+| 26th March, 2019 | [Learning Sparse Neural Networks through L0 Regularization](https://arxiv.org/abs/1712.01312) | Jinyong Kim | [Slides](https://drive.google.com/file/d/1UjIfgPAw7cIDhOZzi9y1WjpUtqzDgZmR/view?usp=sharing) | [Videos](https://youtu.be/ksr1k7XUT5c)
+| 26th March, 2019 | [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476) | Juntae Kim | [Slides](https://drive.google.com/file/d/1uEUVZKGj6CAx6gMCL57TuUNx5DZ2GqUt/view?usp=sharing) | [Videos](https://youtu.be/ksr1k7XUT5c)
 | 19th March, 2019 | [Referring Relationships](https://arxiv.org/abs/1803.10362) <br/> [Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language](https://arxiv.org/abs/1810.11919) | Kyeongpil Kang | [Slides](https://drive.google.com/file/d/1ER4P0J4V2KH_K3A8yE39OZaBfe2mm7gV/view?usp=sharing) | [Videos](https://www.youtube.com/watch?v=cgG7SSWzm7s&feature=youtu.be)
 | 19th March, 2019 | [Partial Adversarial Domain Adaptation](https://arxiv.org/abs/1808.04205) | Kangyeol Kim | [Slides](https://drive.google.com/file/d/1uLiDpLT_CFkT-fVF4zgK270tXcJrPBxs/view?usp=sharing) | [Videos](https://www.youtube.com/watch?v=cgG7SSWzm7s&feature=youtu.be)
 | 12nd March, 2019 | [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146) | Yonggyu Kim | [Slides](https://drive.google.com/file/d/1O_DD4weqVnlJjoxRfioUnTDa2bgPfsIX/view?usp=sharing) | [Videos](https://youtu.be/2cJzsodj8Us)
