@@ -4,8 +4,8 @@
 
 |       Date       | Topic | Presenters | Slides | Videos |
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:|
-| 21st May, 2019 | [Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer](https://openreview.net/pdf?id=S1fQSiCcYm) | Sungha Choi | [Slides](https://drive.google.com/file/d/1nPJDnaaid0i_gG-hvKF5moW1EvSrmcXK/view?usp=sharing) | [Videos]()
-| 21st May, 2019 | [Few-Shot Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1905.01723) | Yongjang Jo | [Slides](https://drive.google.com/file/d/1uAAjF049fQf9pFfzarv20Q4uq9X2q39a/view?usp=sharing) | [Videos]()
+| 21st May, 2019 | [Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer](https://openreview.net/forum?id=S1fQSiCcYm) | Sungha Choi | [Slides](https://drive.google.com/file/d/1nPJDnaaid0i_gG-hvKF5moW1EvSrmcXK/view?usp=sharing) | 
+| 21st May, 2019 | [Few-Shot Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1905.01723) | Yongjang Jo | [Slides](https://drive.google.com/file/d/1uAAjF049fQf9pFfzarv20Q4uq9X2q39a/view?usp=sharing) | 
 | 14th May, 2019 | [Women also Snowboard: Overcoming Bias in Captioning Models](https://arxiv.org/abs/1803.09797) | Seungjoo Yoo | [Slides](https://drive.google.com/file/d/1G_K0BibtVwrhXlioMPmymlue5AmY3hCG/view?usp=sharing) | [Videos](https://youtu.be/k4Nlt5mzDpQ)
 | 14th May, 2019 | [Multi-Pointer Co-Attention Networks for Recommendation](https://arxiv.org/abs/1801.09251) | Kyeongpil Kang | [Slides](https://drive.google.com/file/d/11Bn5rhfH80B7340nGEAVCPRcjr4kfWMf/view?usp=sharing) | [Videos](https://youtu.be/k4Nlt5mzDpQ)
 | 7th May, 2019 | [Contextual word embedding](https://arxiv.org/abs/1810.04805) | Cheonbok Park | [Slides](https://drive.google.com/file/d/1voj44KGIw7JS4hwAKmTyrB3eftAx1pSA/view?usp=sharing) | [Videos](https://youtu.be/pECKwdPvESc)
