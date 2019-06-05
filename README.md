@@ -5,8 +5,7 @@
 |       Date       | Topic | Presenters | Slides | Videos |
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:|
 | 4th June, 2019 | [Flow Based Generative Model](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html) | Yunsung Lee | [Slides](https://drive.google.com/file/d/1ZaQY9ZlF0aCbzJtRtnBnZDhXQCXMhiC-/view?usp=sharing) | [Videos]()
-| 4th June, 2019 | [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
-](https://arxiv.org/abs/1803.03635) <br/> [The Lottery Ticket Hypothesis at Scale](https://arxiv.org/abs/1903.01611) | Taesung Kim | [Slides](https://drive.google.com/file/d/1fiFEX0WtIMhhMkWKscHLKGKH2F9GAlX7/view?usp=sharing) | [Videos]()
+| 4th June, 2019 | [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635) <br/> [The Lottery Ticket Hypothesis at Scale](https://arxiv.org/abs/1903.01611) | Taesung Kim | [Slides](https://drive.google.com/file/d/1fiFEX0WtIMhhMkWKscHLKGKH2F9GAlX7/view?usp=sharing) | [Videos]()
 | 28th May, 2019 | [MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/abs/1905.02450) | Yunwon Tae | [Slides](https://drive.google.com/file/d/1k6z2rqckyUDCsfQSLA6eYhiQoFlZEEry/view?usp=sharing) | [Videos](https://youtu.be/tZdMlH0qnP0)
 | 28th May, 2019 | [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826) | Junsu Lee | [Slides](https://drive.google.com/file/d/1fjeyCeJvGbBw_SlsTHneUbjk2wfxeEBL/view?usp=sharing) | [Videos](https://youtu.be/tZdMlH0qnP0)
 | 21st May, 2019 | [Understanding and Improving Interpolation in Autoencoders via an Adversarial Regularizer](https://openreview.net/forum?id=S1fQSiCcYm) | Sungha Choi | [Slides](https://drive.google.com/file/d/1nPJDnaaid0i_gG-hvKF5moW1EvSrmcXK/view?usp=sharing) | [Videos](https://youtu.be/mRkVoqBpZLQ)
