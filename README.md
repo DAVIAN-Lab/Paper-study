@@ -7,7 +7,7 @@
 | 20th August, 2019 | [Semantics Disentangling for Text-to-Image Generation](https://arxiv.org/abs/1904.01480) | Yunsung Lee | [Slides]() | [Videos]()
 | 20th August, 2019 | [Sphere Generative Adversarial Network Based on Geometric Moment Matching](http://openaccess.thecvf.com/content_CVPR_2019/html/Park_Sphere_Generative_Adversarial_Network_Based_on_Geometric_Moment_Matching_CVPR_2019_paper.html) | Sanghyeon Na | [Slides]() | [Videos]()
 | 13rd August, 2019 | [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692) | Kibeom Kim | [Slides]() | [Videos]()
-| 13rd August, 2019 | [Image-translation papers at CVPR 2019][1](https://arxiv.org/abs/1905.10346)[2](https://arxiv.org/abs/1904.09571)[3](https://arxiv.org/abs/1905.01744)[4](https://arxiv.org/abs/1904.09709)[5](https://arxiv.org/abs/1901.09764) | Wonwoong Cho | [Slides]() | [Videos]()
+| 13rd August, 2019 | [Image-translation papers at CVPR 2019 1](https://arxiv.org/abs/1905.10346)[ 2](https://arxiv.org/abs/1904.09571)[ 3](https://arxiv.org/abs/1905.01744)[ 4](https://arxiv.org/abs/1904.09709)[ 5](https://arxiv.org/abs/1901.09764) | Wonwoong Cho | [Slides]() | [Videos]()
 | 6th August, 2019 | [The relativistic discriminator: a key element missing from standard GAN](https://arxiv.org/abs/1807.00734) | Seunghwan Choi | [Slides]() | [Videos]()
 | 6th August, 2019 | [Disentangling by Factorising](https://arxiv.org/abs/1802.05983) | Eungyeup Kim | [Slides]() | [Videos]()
 | 30th July, 2019 | [Unsupervised Part-Based Disentangling of Object Shape and Appearance](https://arxiv.org/abs/1903.06946) | Sunghyun Park | [Slides]() | [Videos]()
