@@ -1,6 +1,6 @@
 # DAVIAN Lab. Seminar (2019)
 
-### Time: Tuesday 18:30 - 22:00
+### Time: Wednesday 18:30 - 22:00
 
 |       Date       | Topic | Presenters | Slides | Videos |
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:|
