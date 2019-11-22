@@ -4,6 +4,7 @@
 
 |       Date       | Topic | Presenters | Slides | Videos |
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:
+| 20th November, 2019 | [ALBERT](https://arxiv.org/abs/1906.02448) <br/> [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (T5)](https://arxiv.org/abs/1910.10683) | Kibeom Kim | [Slides]() | [Videos](https://youtu.be/Up6iQoi_TQE)
 | 13th November, 2019 | [Bridging the Gap between Training and Inference for Neural Machine Translation](https://arxiv.org/abs/1906.02448) | Cheonbok Park | [Slides]() | [Videos]()
 | 13th November, 2019 | [CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning](https://arxiv.org/abs/1903.02351) | Yongjang Jo | [Slides]() | [Videos]()
 | 6th November, 2019 | [Instance Segmentation by Jointly Optimizing Spatial Embeddings and Clustering Bandwidth](https://arxiv.org/abs/1906.11109) | Junwoo Park | [Slides]() | [Videos]()
