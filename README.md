@@ -16,3 +16,4 @@
 | 8th January, 2020 | [Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination](https://arxiv.org/abs/1805.01978) | Wonwoong Cho | [Slide](https://drive.google.com/open?id=1HWS_omtgsrDcAJ2y-EJ83vMF4JtT0hug) | [Video](https://youtu.be/0UkTLpW-msM)
 | 2nd January, 2020 | [Self-Ensembling with GAN-based Data Augmentation for Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/1909.00589) | Yonggyu Kim | [Slide](https://drive.google.com/open?id=1sKLLQYBfNkSp9oK-1HiNtJIoz1yAF66D) | [Video](https://youtu.be/f0ItN9JnMuQ)
 | 2nd January, 2020 | [Discriminator Rejection Sampling](https://arxiv.org/abs/1810.06758) | Kangyeol Kim | [Slide](https://drive.google.com/file/d/1rRlwITiHkqM8ExdCUKGxPc84xOZFTDKk/view?usp=sharing) | [Video](https://youtu.be/f0ItN9JnMuQ)
+| ~ 2019 | [Link](https://github.com/awesome-davian/Paper-study/blob/master/paper-list(~2019).md) | | | 
