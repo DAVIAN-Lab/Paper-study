@@ -4,8 +4,8 @@
 
 |       Date       | Topic | Presenters | Slides | Videos |
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:
-| 3rd March, 2020 | [Compatible and Diverse Fashion Image Inpainting](https://arxiv.org/abs/1902.01096) | Seunghwan Choi | [Slide](https://drive.google.com/open?id=1UnQZX6-s_sBLv1rDSy7H1DKycreDCOhc) | [Video]()
-| 3rd March, 2020 | [Learning to Shade Hand-drawn Sketches](https://arxiv.org/abs/2002.11812) | Yongjang Cho | [Slide](https://drive.google.com/open?id=1ckCnmBzm5BkVgdOqBMnZcJprje9AYllF) | [Video]()
+| 4th March, 2020 | [Compatible and Diverse Fashion Image Inpainting](https://arxiv.org/abs/1902.01096) | Seunghwan Choi | [Slide](https://drive.google.com/open?id=1UnQZX6-s_sBLv1rDSy7H1DKycreDCOhc) | [Video]()
+| 4th March, 2020 | [Learning to Shade Hand-drawn Sketches](https://arxiv.org/abs/2002.11812) | Yongjang Cho | [Slide](https://drive.google.com/open?id=1ckCnmBzm5BkVgdOqBMnZcJprje9AYllF) | [Video]()
 | 26th February, 2020 | [Write, Execute, Assess: Program Synthesis with a REPL](https://arxiv.org/abs/1906.04604) | Junwoo Park | [Slide](https://drive.google.com/open?id=1m1465NKea_8TikaZMgVvNvYP7NB-zi3j) | [Video]()
 | 12th February, 2020 | [Sequence Modeling with Unconstrained Generation Order](https://arxiv.org/abs/1911.00176) | Cheonbok Park | [Slide](https://drive.google.com/open?id=1UVUhPV6-V3Iy6GzuqyAkiPsB73cpEE-k) | [Video]()
 | 12th February, 2020 | [Learning Correspondence from the Cycle-Consistency of Time](https://arxiv.org/abs/1903.07593) | Hyojin Bahng | [Slide](https://drive.google.com/open?id=1meX0QK6hfvO37o0STQfj9zppY3XZhOyD) | [Video]()
