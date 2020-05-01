@@ -4,6 +4,10 @@
 
 |       Date       | Topic | Presenters | Slides | Videos |
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:
+| 29th April, 2020 | [Recurrent Independent Mechanisms](https://arxiv.org/abs/1909.10893) | Daehoon Gwak | [Slide](https://drive.google.com/open?id=1B5RjMbIrZxJsoemcboPm2FrGE606X5A1) | [Video](https://youtu.be/95bGsdJNfBk)
+| 29th April, 2020 | [Block Level Skip Connections across Cascaded V-Net for Multi-organ Segmentation](https://ieeexplore.ieee.org/document/9006924) | Kyungmin Cho | [Slide](https://drive.google.com/open?id=1EiMy_2vel2jnMCQYwMj7AUn-MPF1ayO5) | [Video](https://youtu.be/95bGsdJNfBk)
+| 22th April, 2020 | [Unsupervised Learning by Competing Hidden Units](https://www.pnas.org/content/116/16/7723) | Bombs Kim | [Slide](https://drive.google.com/open?id=1z8O8FYAMoqV8l4Moqmy_gzInGMidoBvo) | [Video](https://youtu.be/0rDup-Lm4ZA)
+| 22th April, 2020 | [MirrorGAN: Learning Text-To-Image Generation by Redescription](https://arxiv.org/abs/1903.05854) | Kangyeol Kim | [Slide](https://drive.google.com/open?id=1EsvxCk3X4HOe7QMV6bKZwxzDLK9nqESG) | [Video](https://youtu.be/0rDup-Lm4ZA)
 | 8th April, 2020 | [The Sound of Pixels](https://arxiv.org/abs/1804.03160) | Jinhee Kim | [Slide](https://drive.google.com/open?id=182dm3Jg8u92daij0mhk74L0L17zk3CM7) | [Video](https://youtu.be/5rz3CC22gh0)
 | 8th April, 2020 | [High-Fidelity Image Generation With Fewer Labels](https://arxiv.org/abs/1903.02271) | Yonggyu Kim | [Slide](https://drive.google.com/open?id=1IhIFPcPTJHDsFUzR21GPm0RyrWRkkAGU) | [Video](https://youtu.be/5rz3CC22gh0)
 | 1st April, 2020 | [From Variational to Deterministic Autoencoders](https://arxiv.org/abs/1903.12436) | Sanghyeon Lee | [Slide](https://drive.google.com/open?id=1fMzHYTHwOXv-W_xYUwVPtZ37D44orQRD) | [Video](https://youtu.be/WfIkNtKxiPE)
