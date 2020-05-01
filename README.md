@@ -4,7 +4,7 @@
 
 |       Date       | Topic | Presenters | Slides | Videos |
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:
-| 29th April, 2020 | [Recurrent Independent Mechanisms](https://arxiv.org/abs/1909.10893) | Daehoon Gwak | [Slide](https://drive.google.com/open?id=1B5RjMbIrZxJsoemcboPm2FrGE606X5A1) | [Video](https://youtu.be/95bGsdJNfBk)
+| 29th April, 2020 | [Recurrent Independent Mechanisms](https://arxiv.org/abs/1909.10893) | Daehoon Gwak | [Slide](https://drive.google.com/open?id=1B5RjMbIrZxJsoemcboPm2FrGE606X5A1) | [Video](https://youtu.be/95bGsdJNfBk?t=5074)
 | 29th April, 2020 | [Block Level Skip Connections across Cascaded V-Net for Multi-organ Segmentation](https://ieeexplore.ieee.org/document/9006924) | Kyungmin Cho | [Slide](https://drive.google.com/open?id=1EiMy_2vel2jnMCQYwMj7AUn-MPF1ayO5) | [Video](https://youtu.be/95bGsdJNfBk)
 | 22th April, 2020 | [Unsupervised Learning by Competing Hidden Units](https://www.pnas.org/content/116/16/7723) | Bombs Kim | [Slide](https://drive.google.com/open?id=1z8O8FYAMoqV8l4Moqmy_gzInGMidoBvo) | [Video](https://youtu.be/0rDup-Lm4ZA)
 | 22th April, 2020 | [MirrorGAN: Learning Text-To-Image Generation by Redescription](https://arxiv.org/abs/1903.05854) | Kangyeol Kim | [Slide](https://drive.google.com/open?id=1EsvxCk3X4HOe7QMV6bKZwxzDLK9nqESG) | [Video](https://youtu.be/0rDup-Lm4ZA)
