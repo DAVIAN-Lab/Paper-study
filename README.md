@@ -12,7 +12,7 @@
 | 24th June, 2020 | [Reinforcement Learning for Molecular Design Guided by Quantum Mechanics](https://arxiv.org/abs/2002.07717) | Youngwoo Cho | [Slide]() | [Video]()
 | 17th June, 2020 | [GANalyze: Toward Visual Definitions of Cognitive Image Properties](https://arxiv.org/abs/1906.10112) | Jeonghoon Park | [Slide]() | [Video]()
 | 17th June, 2020 | [Rethinking Pre-training and Self-training](https://arxiv.org/abs/2006.06882) | Yunsung Lee | [Slide]() | [Video]()
-| 10th June, 2020 | [Addressing non-differentiability tutorial] | Byungkun Lee | [Slide]() | [Video]()
+| 10th June, 2020 | [Addressing non-differentiability tutorial]() | Byungkun Lee | [Slide]() | [Video]()
 | 10th June, 2020 | [Image Based Virtual Try-on Network from Unpaired Data](http://openaccess.thecvf.com/content_CVPR_2020/html/Neuberger_Image_Based_Virtual_Try-On_Network_From_Unpaired_Data_CVPR_2020_paper.html) | Sunghyeon Park | [Slide]() | [Video]()
 | 3rd June, 2020 | [STGAN: A Unified Selective Transfer Network for Arbitrary Image Attribute Editing](https://arxiv.org/abs/1904.09709) | Jungsoo Lee | [Slide]() | [Video]()
 | 3rd June, 2020 | [Learning Spatial Common Sense with Geometry-Aware Recurrent Networks](https://arxiv.org/abs/1901.00003) | Seungjoo Yoo | [Slide]() | [Video]()
