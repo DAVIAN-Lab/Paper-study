@@ -1,6 +1,6 @@
 # DAVIAN Lab. Seminar (2020)
 
-### Time: Wednesday 18:00 - 21:30
+### Time: Wednesday 19:00 - 21:30
 
 |       Date       | Topic | Presenters | Slides | Videos |
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:
