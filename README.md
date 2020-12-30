@@ -4,6 +4,8 @@
 
 |       Date       | Topic | Presenters | Slides | Videos |
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:
+| 30th December, 2020 | [Mastering the game of Go without human knowledge](https://www.nature.com/articles/nature24270) | Hojoon Lee | [Slide](https://drive.google.com/file/d/19cmfwSGOnf4zSPMhRiW1WLeyZA5nBOv8/view?usp=sharing) | [Video](https://youtu.be/xYfk5sSahkI)
+| 30th December, 2020 | [Stylized Neural Painting](https://arxiv.org/abs/2011.08114) | Kangyeol Kim | [Slide](https://drive.google.com/file/d/1cCFPHq1MvbIy-AsHQgy3gNb3HM8BRREb/view?usp=sharing) | [Video](https://youtu.be/xYfk5sSahkI)
 | 16th December, 2020 | [A Simple Baseline for Bayesian Uncertainty in Deep Learning](https://arxiv.org/abs/1902.02476) | Jinhee Kim | [Slide](https://drive.google.com/file/d/1cDz6VZGsOKip_-5A15W7Pyghl2Lbj-NF/view?usp=sharing) | [Video](https://youtu.be/CMVpa6OBWdE)
 | 16th December, 2020 | [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872) | Taesung Kim | [Slide](https://drive.google.com/file/d/1oVPzq3CSPaAJb15cpqCkHp8JxjNYZBT0/view?usp=sharing) | [Video](https://youtu.be/CMVpa6OBWdE)
 | 9th December, 2020 | [(Re)construing Meaning in NLP](https://arxiv.org/abs/2005.09099) | Daniel Rim | [Slide](https://drive.google.com/file/d/1ITzW7XttXpmONCS-DNeqIUZv5RhSC5mb/view?usp=sharing) | [Video](https://youtu.be/cNpnQf4bg0Y)
