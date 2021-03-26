@@ -4,6 +4,12 @@
 
 |       Date       | Topic | Presenters | Slides | Videos |
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:
+| 24th March, 2021 | [Learning to Reach Goals via Iterated Supervised Learning](https://arxiv.org/abs/1912.06088) | Hyunseung Kim | [Slide](https://drive.google.com/file/d/1v6kPYq7oMsKd5DVXV4FFHtuePeYWNdk7/view?usp=sharing) | [Video]()
+| 24th March, 2021 | [On Mixup Training: Improved Calibration and Predictive Uncertainty for Deep Neural Networks](https://arxiv.org/abs/1905.11001) | Jeonghoon Park | [Slide](https://drive.google.com/file/d/1uLdckCxzmiOZKF6BMeX6LIvFy4cEgKs2/view?usp=sharing) | [Video]()
+| 17th March, 2021 | [Contrastive Learning with Adversarial Perturbations for Conditional Text Generation](https://arxiv.org/abs/2012.07280) | Jimin Hong | [Slide](https://drive.google.com/file/d/14Nur4lP6O1tTTFzUkireJgbwUBWBBeYN/view?usp=sharing) | [Video]()
+| 17th March, 2021 | [Combining Deep Reinforcement Learning and Search for Imperfect-Information Games](https://arxiv.org/abs/2007.13544) | Byungkun Lee | [Slide](https://drive.google.com/file/d/1jKciFJwKhNTrLmG28QNqgDGDRmANNksa/view?usp=sharing) | [Video]()
+| 10th March, 2021 | [FairGAN: Fairness-aware Generative Adversarial Networks](https://arxiv.org/abs/1805.11202) | Soyoung Yang | [Slide](https://drive.google.com/file/d/1noH8oEoFVh0B7gQ8Zgdtn9qLG-yCKlUG/view?usp=sharing) | [Video]()
+| 10th March, 2021 | [On Numerosity of Deep Neural Networks](https://papers.nips.cc/paper/2020/hash/13e36f06c66134ad65f532e90d898545-Abstract.html) | Youngwoo Cho | [Slide](https://drive.google.com/file/d/1SL0A2w5k729Dp8WD3O08dBZ_fp7TTQut/view?usp=sharing) | [Video]()
 | 24th February, 2021 | [High-Performance Large-Scale Image Recognition Without Normalization](https://arxiv.org/abs/2102.06171) | Sunghyun Park | [Slide](https://drive.google.com/file/d/1V8K39kuQxm1-mDCa9utn8FQjtPZiIO4G/view?usp=sharing) | [Video](https://youtu.be/GsqRChsXxQM)
 | 24th February, 2021 | [Contrastive Learning for Unpaired Image-to-Image Translation](https://arxiv.org/abs/2007.15651) | Minsoo Lee | [Slide](https://drive.google.com/file/d/1SpfsgaRz-KYZr-Jhqpzf8zszWBjeTrh6/view?usp=sharing) | [Video](https://youtu.be/GsqRChsXxQM)
 | 17th February, 2021 | [Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning](https://arxiv.org/abs/2011.01403) | Yunwon Tae | [Slide](https://drive.google.com/file/d/1nONDeT5XC65L8abVUHqg-yMKn4oT0fbI/view?usp=sharing) | [Video](https://youtu.be/GFORQt24shM)
