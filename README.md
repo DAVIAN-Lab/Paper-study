@@ -63,3 +63,4 @@
 | 13th January, 2021 | [Excessive Invariance Causes Adversarial Vulnerability](https://arxiv.org/abs/1811.00401) | Eungyeup Kim | [Slide](https://drive.google.com/file/d/1hV7DUWHJ-SpjhzKkDROnSeWaCHGqkR_4/view?usp=sharing) | [Video](https://youtu.be/jbDVHyR6e2I)
 | 6th January, 2021 | [DeepStrip: High Resolution Boundary Refinement](https://arxiv.org/abs/2003.11670) | Sanghyeon Lee | [Slide](https://drive.google.com/file/d/1j4sPvUTiinpKK5HIT83YzalMOYUk4bjz/view?usp=sharing) | [Video](https://youtu.be/IQXNd0gG_dU)
 | 6th January, 2021 | [Careful Selection of Knowledge to solve Open Book Question Answering](https://arxiv.org/abs/1907.10738) | Kibeom Kim | [Slide](https://drive.google.com/file/d/1nIf_GHYHgvSorv8IS6S0ea_CnFxtF6KU/view?usp=sharing) | [Video](https://youtu.be/IQXNd0gG_dU)
+| ~ 2019 | [Link](https://github.com/awesome-davian/Paper-study/blob/master/paper-list(2020).md) |  |  |  |
