@@ -4,8 +4,8 @@
 
 |       Date       | Topic | Presenters | Slides | Videos |
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:
-| 29th December, 2021 | [Projected GANs Converge Faster](https://arxiv.org/abs/2111.01007) | Taesung Kim | [Slide](https://drive.google.com/file/d/1r18A2i5rEhU-_2kafslb61Q1Cd-MQt6k/view?usp=sharing) | [Video]()
-| 29th December, 2021 | [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/abs/2106.13008) | Junwoo Park | [Slide](https://drive.google.com/file/d/1em-Q6LN3_uF_yqdoyAeKmMCE4OVHzz5S/view?usp=sharing) | [Video]()
+| 29th December, 2021 | [Projected GANs Converge Faster](https://arxiv.org/abs/2111.01007) | Taesung Kim | [Slide](https://drive.google.com/file/d/1r18A2i5rEhU-_2kafslb61Q1Cd-MQt6k/view?usp=sharing) | [Video](https://youtu.be/QOUKrEQzX88)
+| 29th December, 2021 | [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/abs/2106.13008) | Junwoo Park | [Slide](https://drive.google.com/file/d/1em-Q6LN3_uF_yqdoyAeKmMCE4OVHzz5S/view?usp=sharing) | [Video](https://youtu.be/QOUKrEQzX88)
 | 22th December, 2021 | [PaMIR: Parametric Model-Conditioned Implicit Representation for Image-based Human Reconstruction](https://arxiv.org/abs/2007.03858) | Gyumin Shim | [Slide](https://drive.google.com/file/d/1wU5jRoN0V-bXo6uUx8ymMUS1N_1dPOgq/view?usp=sharing) | [Video](https://youtu.be/p8pU4zxWrT0)
 | 22th December, 2021 | [Rethinking Graph Transformers with Spectral Attention](https://arxiv.org/abs/2106.03893) | Rodrigo Hormazabal | [Slide](https://drive.google.com/file/d/1aeo5_938zAa67Ja02PwNSi3X4kLS0Rmk/view?usp=sharing) | [Video](https://youtu.be/p8pU4zxWrT0)
 | 15th December, 2021 | [XProtoNet: Diagnosis in Chest Radiography with Global and Local Explanations](https://arxiv.org/abs/2103.10663) | Daniel Rim | [Slide](https://drive.google.com/file/d/1eMaISt9LMUhvD5hLxzpbAJmsRp1vxR_f/view?usp=sharing) | [Video](https://youtu.be/ceApfTU8zWU)
