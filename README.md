@@ -1,6 +1,6 @@
 # DAVIAN Lab. Seminar (2022)
 
-### Time: Wednesday 19:00 - 21:30
+### Time: Monday 19:00 - 21:00
 
 |       Date       | Topic | Presenters | Slides | Videos |
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:
