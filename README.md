@@ -1,4 +1,4 @@
-# DAVIAN Lab. Seminar (2022)
+# DAVIAN Lab. Seminar (2023)
 
 ### Time: Monday 19:00 - 21:00
 
