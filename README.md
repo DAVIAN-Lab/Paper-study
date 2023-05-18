@@ -4,6 +4,9 @@
 
 |       Date       | Topic | Presenters | Slides | Videos |
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:
+| 26th December, 2022 | [Tackling the Generative Learning Trilemma with Denoising Diffusion GANs](https://arxiv.org/abs/2112.07804) | Daejin Kim | [Slide]() | [Video]()
+| 19th December, 2022 | [Debiased Visual Question Answering from Feature and Sample Perspectives](https://proceedings.neurips.cc/paper/2021/hash/1f4477bad7af3616c1f933a02bfabe4e-Abstract.html) | Chaeyeon Chung | [Slide]() | [Video]()
+| 19th December, 2022 | [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://arxiv.org/abs/2208.12242) | Jooyeol Yun | [Slide]() | [Video]()
 | 12th December, 2022 | [The Forward-Forward Algorithm: Some Preliminary Investigations](https://www.cs.toronto.edu/~hinton/FFA13.pdf) | Youngin Cho | [Slide]() | [Video]()
 | 5th December, 2022 | [Towards Stable Test-time Adaptation in Dynamic Wild World](https://openreview.net/forum?id=g2YraF75Tj) | Hyesu Lim | [Slide]() | [Video]()
 | 28th November, 2022 | [Calibrate Before Use: Improving Few-Shot Performance of Language Models](https://arxiv.org/pdf/2102.09690.pdf) | Chaehun Park | [Slide]() | [Video]()
