@@ -4,9 +4,9 @@
 
 |       Date       | Topic | Presenters | Slides | Videos |
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:
-| 18th May, 2023 | Pretraining, Instructing, Reasoning, Planning | Hojun Cho | [Slide](https://drive.google.com/file/d/1rfciEoJGBJVfJA0lpREgXReJmIdJUzEV/view?usp=share_link) | [Video]()
-| 11th May, 2023 | [Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time](https://arxiv.org/abs/2203.05482) | Minho Park | [Slide](https://drive.google.com/file/d/1f01q1tfPO9LagfpgEUQ8Moi540cudnNY/view?usp=share_link) | [Video]()
-| 4th May, 2023 | [Symbolic Discovery of Optimization Algorithms](https://arxiv.org/abs/2302.06675) | Jooyeol Yun | [Slide](https://drive.google.com/file/d/1plJZhVqUvYXbyjgRYc46pR9cg3SiOLgq/view?usp=share_link) | [Video]()
+| 18th May, 2023 | Pretraining, Instructing, Reasoning, Planning | Hojun Cho | [Slide](https://drive.google.com/file/d/1rfciEoJGBJVfJA0lpREgXReJmIdJUzEV/view?usp=share_link) | [Video](https://davian-lab.quickconnect.to/d/f/tiLECEMK0lqnVuicSdaKCvcgLGbwWyC7)
+| 11th May, 2023 | [Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time](https://arxiv.org/abs/2203.05482) | Minho Park | [Slide](https://drive.google.com/file/d/1f01q1tfPO9LagfpgEUQ8Moi540cudnNY/view?usp=share_link) | [Video](https://davian-lab.quickconnect.to/d/f/tiKbdvFZYXox00uAXxO5VocDnp9uzxlp)
+| 4th May, 2023 | [Symbolic Discovery of Optimization Algorithms](https://arxiv.org/abs/2302.06675) | Jooyeol Yun | [Slide](https://drive.google.com/file/d/1plJZhVqUvYXbyjgRYc46pR9cg3SiOLgq/view?usp=share_link) | [Video](https://davian-lab.quickconnect.to/d/f/tiKplkiDSpDqAw4IHFfrmd7d1VhJIN34)
 | 13th April, 2023 | [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/abs/1909.08053) <br> [ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning](https://arxiv.org/abs/2104.07857) | Jimin Hong | [Slide](https://drive.google.com/file/d/1vSiF8KC33r9XRufxdmbvTSRSil7vz5Ez/view?usp=share_link) | [Video]()
 | 6th April, 2023 | DenseNet Strikes Back | Donghyun Kim | [Slide](https://drive.google.com/file/d/1eDhnYmfYISYQq7V-u857E_g7g_WsljgM/view?usp=share_link) | [Video]()
 | 6th April, 2023 | [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://arxiv.org/abs/2210.02186) | Junwoo Park | [Slide](https://drive.google.com/file/d/1lAEBwcSv41DKq3CGE-Y-r8iDzM4pYyS5/view?usp=share_link) | [Video]()
