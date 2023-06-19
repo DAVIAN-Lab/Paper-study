@@ -6,7 +6,7 @@
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:
 | 15th June, 2023 | Aligning Text-to-Image models with Human preference | 형준하 | [Slide](https://drive.google.com/file/d/1rfciEoJGBJVfJA0lpREgXReJmIdJUzEV/view?usp=share_link) | [Video](https://youtu.be/8G0kUvqGPpw)
 | 15th June, 2023 | Survey on Multimodal with LLM | 백서현 | [Slide](https://drive.google.com/file/d/1rfciEoJGBJVfJA0lpREgXReJmIdJUzEV/view?usp=share_link) | [Video](https://youtu.be/QzmLe4Bv_HM)
-| 8th June, 2023 | Unsupervised Model Selection for Time Series Anomaly Detection | 김진희 | [Slide](https://drive.google.com/file/d/1rfciEoJGBJVfJA0lpREgXReJmIdJUzEV/view?usp=share_link) | | [Video](https://youtu.be/H5zHLBxYy0M)
+| 8th June, 2023 | Unsupervised Model Selection for Time Series Anomaly Detection | 김진희 | [Slide](https://drive.google.com/file/d/1rfciEoJGBJVfJA0lpREgXReJmIdJUzEV/view?usp=share_link) | [Video](https://youtu.be/H5zHLBxYy0M)
 | 8th June, 2023 | Encoding Recurrent into Transformers | 김태성 | [Slide](https://drive.google.com/file/d/1rfciEoJGBJVfJA0lpREgXReJmIdJUzEV/view?usp=share_link) | [Video](https://youtu.be/H5zHLBxYy0M)
 | 1th June, 2023 | Do you know AI bandoche? | 조영우 | [Slide](https://drive.google.com/file/d/1rfciEoJGBJVfJA0lpREgXReJmIdJUzEV/view?usp=share_link) | [Video](https://youtu.be/APLnm7iH-YE)
 | 1th June, 2023 | WebFace260M: A benchmark for Million scale Deep Face Recognition | 이동재 | [Slide](https://drive.google.com/file/d/1rfciEoJGBJVfJA0lpREgXReJmIdJUzEV/view?usp=share_link) | [Video](https://youtu.be/pjg69PPz9bQ)
