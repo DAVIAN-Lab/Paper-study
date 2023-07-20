@@ -9,7 +9,7 @@
 | 29th June, 2023 | ConvNext v2: Extension of masked Image Modeling | 이상현 | [Slide]() | [Video](https://youtu.be/k-DdgvM5SSo?t=4800)
 | 29th June, 2023 | Extension of Sample-Contrastive Learning | 박준우 | [Slide]() | [Video](https://youtu.be/k-DdgvM5SSo)
 | 22th June, 2023 | GigaGAN: Scaling up GANs for Text-to-Image Synthesis | 구교정 | [Slide]() | [Video](https://youtu.be/hcyNmlYMfUA?t=7560)
-| 22th June, 2023 | A survey of Neural Talking Heads | 이재성 | [Slide]() | [Video](https://youtu.be/hcyNmlYMfUA))
+| 22th June, 2023 | A survey of Neural Talking Heads | 이재성 | [Slide]() | [Video](https://youtu.be/hcyNmlYMfUA)
 | 15th June, 2023 | Aligning Text-to-Image models with Human preference | 형준하 | [Slide]() | [Video](https://youtu.be/8G0kUvqGPpw)
 | 15th June, 2023 | Survey on Multimodal with LLM | 백서현 | [Slide]() | [Video](https://youtu.be/QzmLe4Bv_HM)
 | 8th June, 2023 | Unsupervised Model Selection for Time Series Anomaly Detection | 김진희 | [Slide](https://drive.google.com/file/d/1rfciEoJGBJVfJA0lpREgXReJmIdJUzEV/view?usp=share_link) | [Video](https://youtu.be/H5zHLBxYy0M)
