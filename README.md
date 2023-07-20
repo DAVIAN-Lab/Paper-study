@@ -5,7 +5,7 @@
 |       Date       | Topic | Presenters | Slides | Videos |
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:
 | 6th July, 2023  | DINO: Emerging Properties in Self-Supervised Vision Transformers | 최새미 | [Slide]() | [Video](https://youtu.be/wuHE88cVGMg?t=6000)
-| 6th July, 2023  | On the duality between contrastive and non-contrastive self-supervised learning | 이호준 | [Slide]() | [Video](https://youtu.be/wuHE88cVGMg)
+| 6th July, 2023  | On the duality between contrastive and non-contrastive SSL | 이호준 | [Slide]() | [Video](https://youtu.be/wuHE88cVGMg)
 | 29th June, 2023 | ConvNext v2: Extension of masked Image Modeling | 이상현 | [Slide]() | [Video](https://youtu.be/k-DdgvM5SSo?t=4800)
 | 29th June, 2023 | Extension of Sample-Contrastive Learning | 박준우 | [Slide]() | [Video](https://youtu.be/k-DdgvM5SSo)
 | 22th June, 2023 | GigaGAN: Scaling up GANs for Text-to-Image Synthesis | 구교정 | [Slide]() | [Video](https://youtu.be/hcyNmlYMfUA?t=7560)
