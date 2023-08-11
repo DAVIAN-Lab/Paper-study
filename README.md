@@ -4,6 +4,16 @@
 
 |       Date       | Topic | Presenters | Slides | Videos |
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:
+| 10th Aug, 2023  | Gradient Descent : The Ultimate Optimizer | 박세직 | [Slide]() | [Video](https://youtu.be/YfyBKcyjwAs?t=4300)
+| 10th Aug, 2023  | Last Layer Re-Training is Sufficient for Robustness to Spurious Correlations | 이정수 | [Slide]() | [Video](https://youtu.be/YfyBKcyjwAs?t=60)
+| 03th Aug, 2023  | Debiasing for Text-to-Image Diffusion Models | 정채연 | [Slide]() | [Video](https://youtu.be/Fn2PJzW11mg?t=4100)
+| 03th Aug, 2023  | On Pitfalls of Test-Time Adaptation | 임혜수 | [Slide]() | [Video](https://youtu.be/Fn2PJzW11mg)
+| 27th July, 2023  | Classifier and Classifier-free Guidance with its applications | 김정호 | [Slide]() | [Video](https://youtu.be/PInYzRz2hTI?t=3000)
+| 27th July, 2023  | Personalized Text-to-Image Diffusion Models | 박성현 | [Slide]() | [Video](https://youtu.be/PInYzRz2hTI?t=120)
+| 20th July, 2023  | Denoising Diffusion Models: A Generative Learning Big Bang | 조경민 | [Slide]() | [Video](https://youtu.be/8npQCBPZ8AE?t=3950)
+| 20th July, 2023  | Text-to-3D Generation with Diffusion Models | 황성원 | [Slide]() | [Video](https://youtu.be/8npQCBPZ8AE?t=200)
+| 13th July, 2023  | Large Language Models as General Pattern Machines | 김진희 | [Slide]() | [Video](https://youtu.be/-KMW1X7WAkc?t=5300)
+| 13th July, 2023  | IBRNet: Learning Multi-View Image-Based Rendering | 김민정 | [Slide]() | [Video](https://youtu.be/-KMW1X7WAkc)
 | 6th July, 2023  | DINO: Emerging Properties in Self-Supervised Vision Transformers | 최새미 | [Slide]() | [Video](https://youtu.be/wuHE88cVGMg?t=6000)
 | 6th July, 2023  | On the duality between contrastive and non-contrastive SSL | 이호준 | [Slide]() | [Video](https://youtu.be/wuHE88cVGMg)
 | 29th June, 2023 | ConvNext v2: Extension of masked Image Modeling | 이상현 | [Slide]() | [Video](https://youtu.be/k-DdgvM5SSo?t=4800)
