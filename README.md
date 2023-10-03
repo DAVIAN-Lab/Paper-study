@@ -5,7 +5,7 @@
 |       Date       | Topic | Presenters | Slides | Videos |
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:
 | 21th Sep, 2023  | GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers | 김동현 | [Slide]() | [Video](https://youtu.be/Fn2PJzW11mg?t=3800)
-| 21th Sep, 2023  | Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning | 백유진 | [Slide]() | [Video](https://youtu.be/4V5R_s8i_us)
+| 21th Sep, 2023  | Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning | 백유진 | [Slide]() | [Video](https://youtu.be/4V5R_s8i_us?t=5)
 | 14th Sep, 2023  | Token Merging: Your ViT but Faster | 정소현 | [Slide]() | [Video](https://youtu.be/UnSlEeMmx2s?t=5)
 | 31th Aug, 2023  | Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation | 이승일 | [Slide]() | [Video](https://youtu.be/OqI59NRx-nI?t=60)
 | 24th Aug, 2023  | 기상 예측 AI붐은 온다 | 조영우 | [Slide]() | [Video](https://youtu.be/C_areldwHYs?t=3610)
