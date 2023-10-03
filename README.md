@@ -4,6 +4,14 @@
 
 |       Date       | Topic | Presenters | Slides | Videos |
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:
+| 21th Sep, 2023  | GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers | 김동현 | [Slide]() | [Video](https://youtu.be/Fn2PJzW11mg?t=3800)
+| 21th Sep, 2023  | Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning | 백유진 | [Slide]() | [Video](https://youtu.be/4V5R_s8i_us)
+| 14th Sep, 2023  | Token Merging: Your ViT but Faster | 정소현 | [Slide]() | [Video](https://youtu.be/UnSlEeMmx2s?t=5)
+| 31th Aug, 2023  | Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation | 이승일 | [Slide]() | [Video](https://youtu.be/OqI59NRx-nI?t=60)
+| 24th Aug, 2023  | 기상 예측 AI붐은 온다 | 조영우 | [Slide]() | [Video](https://youtu.be/C_areldwHYs?t=3610)
+| 24th Aug, 2023  | Re-imagine the Negative Prompt Algorithm: Transform 2D Diffusion into 3D | 심규민 | [Slide]() | [Video](https://youtu.be/C_areldwHYs?t=10)
+| 17th Aug, 2023  | Grounding Counterfactual Explanation of Image Classifiers to Textual Concept Space | 최진호 | [Slide]() | [Video](https://youtu.be/zECnrSFKjwI?t=3400)
+| 17th Aug, 2023  | Training Debiased Subnetworks with Contrastive Weight Pruning | 박정훈 | [Slide]() | [Video](https://youtu.be/zECnrSFKjwI?t=10)
 | 10th Aug, 2023  | Gradient Descent : The Ultimate Optimizer | 박세직 | [Slide]() | [Video](https://youtu.be/YfyBKcyjwAs?t=4300)
 | 10th Aug, 2023  | Last Layer Re-Training is Sufficient for Robustness to Spurious Correlations | 이정수 | [Slide]() | [Video](https://youtu.be/YfyBKcyjwAs?t=60)
 | 03th Aug, 2023  | Debiasing for Text-to-Image Diffusion Models | 정채연 | [Slide]() | [Video](https://youtu.be/Fn2PJzW11mg?t=4100)
