@@ -4,6 +4,10 @@
 
 |       Date       | Topic | Presenters | Slides | Videos |
 |:----------------:|:----------------------------------------:|:----------:|:------:|:------:
+| 12th Oct, 2023  | A Path Towards Autonomous Machine Intelligence | 김현승 | [Slide]() | [Video](https://www.youtube.com/watch?v=LVs5x5W5z6M&t=30s)
+| 12th Oct, 2023  | RT-2: Vision-Language Action Models | 황동윤 | [Slide]() | [Video](https://www.youtube.com/watch?v=FX1S8XoOBWk&t=30s)
+| 05th Oct, 2023  | LLaMA 2: Open Foundation and Fine-Tuned Chat Models | 정하원 | [Slide]() | [Video](https://www.youtube.com/watch?v=ERIoc2vtam4&t=4100s)
+| 05th Oct, 2023  | When and Why Vision-Language Models Behave like Bag-of-words, and What to do about it? | 최승환 | [Slide]() | [Video](https://www.youtube.com/watch?v=ERIoc2vtam4&t=1s)
 | 21th Sep, 2023  | GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers | 김동현 | [Slide]() | [Video](https://youtu.be/Fn2PJzW11mg?t=3800)
 | 21th Sep, 2023  | Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning | 백유진 | [Slide]() | [Video](https://youtu.be/4V5R_s8i_us?t=5)
 | 14th Sep, 2023  | Token Merging: Your ViT but Faster | 정소현 | [Slide]() | [Video](https://youtu.be/UnSlEeMmx2s?t=5)
