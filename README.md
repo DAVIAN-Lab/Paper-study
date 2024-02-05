@@ -1,69 +1,29 @@
-# DAVIAN Lab. Seminar (2023)
+# DAVIAN Lab. Seminar (2024)
 
-### Time: Monday 19:00 - 21:00
+### Review
+- 1 hour in-depth review per paper
+  
+|     Date    | Topic | Presenter | Video |
+|:-----------:|:----------------------------------------|:------:|:------:
+| 01.25 2024  | Diffusion Model Alignment Using Direct Preference Optimization | 형준하 | [Video](https://www.youtube.com/watch?v=ERIoc2vtam4&t=4100s)
+| 01.18 2024  | ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings | 백유진  | [Video](https://www.youtube.com/watch?v=ERIoc2vtam4&t=1s)
+| 01.11 2024  | DayDreamer: World Models for Physical Robot Learning | 이병근  | [Video](https://youtu.be/Fn2PJzW11mg?t=3800)
+| 01.04 2024  | Computer Vision in The Wild | 송준하 | [Video](https://youtu.be/4V5R_s8i_us?t=5)
+| 12.21 2023  | Language Models Don’t Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting | 최민석 | [Slide]() | [Video](https://youtu.be/UnSlEeMmx2s?t=5)
+| 12.07 2023  | DALL-E 3: Improving Image Generation with Better Captions | 황성원 | [Video](https://youtu.be/C_areldwHYs?t=3610)
+| ~ 2023 | [Link](https://github.com/DAVIAN-Lab/Paper-study/blob/master/paper-list(2023).md) |  |  |  |
 
-|       Date       | Topic | Presenters | Slides | Videos |
-|:----------------:|:----------------------------------------:|:----------:|:------:|:------:
-| 12th Oct, 2023  | A Path Towards Autonomous Machine Intelligence | 김현승 | [Slide]() | [Video](https://www.youtube.com/watch?v=LVs5x5W5z6M&t=30s)
-| 12th Oct, 2023  | RT-2: Vision-Language Action Models | 황동윤 | [Slide]() | [Video](https://www.youtube.com/watch?v=FX1S8XoOBWk&t=30s)
-| 05th Oct, 2023  | LLaMA 2: Open Foundation and Fine-Tuned Chat Models | 정하원 | [Slide]() | [Video](https://www.youtube.com/watch?v=ERIoc2vtam4&t=4100s)
-| 05th Oct, 2023  | When and Why Vision-Language Models Behave like Bag-of-words, and What to do about it? | 최승환 | [Slide]() | [Video](https://www.youtube.com/watch?v=ERIoc2vtam4&t=1s)
-| 21th Sep, 2023  | GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers | 김동현 | [Slide]() | [Video](https://youtu.be/Fn2PJzW11mg?t=3800)
-| 21th Sep, 2023  | Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning | 백유진 | [Slide]() | [Video](https://youtu.be/4V5R_s8i_us?t=5)
-| 14th Sep, 2023  | Token Merging: Your ViT but Faster | 정소현 | [Slide]() | [Video](https://youtu.be/UnSlEeMmx2s?t=5)
-| 31th Aug, 2023  | Towards Understanding Ensemble, Knowledge Distillation and Self-Distillation | 이승일 | [Slide]() | [Video](https://youtu.be/OqI59NRx-nI?t=60)
-| 24th Aug, 2023  | 기상 예측 AI붐은 온다 | 조영우 | [Slide]() | [Video](https://youtu.be/C_areldwHYs?t=3610)
-| 24th Aug, 2023  | Re-imagine the Negative Prompt Algorithm: Transform 2D Diffusion into 3D | 심규민 | [Slide]() | [Video](https://youtu.be/C_areldwHYs?t=10)
-| 17th Aug, 2023  | Grounding Counterfactual Explanation of Image Classifiers to Textual Concept Space | 최진호 | [Slide]() | [Video](https://youtu.be/zECnrSFKjwI?t=3400)
-| 17th Aug, 2023  | Training Debiased Subnetworks with Contrastive Weight Pruning | 박정훈 | [Slide]() | [Video](https://youtu.be/zECnrSFKjwI?t=10)
-| 10th Aug, 2023  | Gradient Descent : The Ultimate Optimizer | 박세직 | [Slide]() | [Video](https://youtu.be/YfyBKcyjwAs?t=4300)
-| 10th Aug, 2023  | Last Layer Re-Training is Sufficient for Robustness to Spurious Correlations | 이정수 | [Slide]() | [Video](https://youtu.be/YfyBKcyjwAs?t=60)
-| 03th Aug, 2023  | Debiasing for Text-to-Image Diffusion Models | 정채연 | [Slide]() | [Video](https://youtu.be/Fn2PJzW11mg?t=4100)
-| 03th Aug, 2023  | On Pitfalls of Test-Time Adaptation | 임혜수 | [Slide]() | [Video](https://youtu.be/Fn2PJzW11mg)
-| 27th July, 2023  | Classifier and Classifier-free Guidance with its applications | 김정호 | [Slide]() | [Video](https://youtu.be/PInYzRz2hTI?t=3000)
-| 27th July, 2023  | Personalized Text-to-Image Diffusion Models | 박성현 | [Slide]() | [Video](https://youtu.be/PInYzRz2hTI?t=120)
-| 20th July, 2023  | Denoising Diffusion Models: A Generative Learning Big Bang | 조경민 | [Slide]() | [Video](https://youtu.be/8npQCBPZ8AE?t=3950)
-| 20th July, 2023  | Text-to-3D Generation with Diffusion Models | 황성원 | [Slide]() | [Video](https://youtu.be/8npQCBPZ8AE?t=200)
-| 13th July, 2023  | Large Language Models as General Pattern Machines | 김진희 | [Slide]() | [Video](https://youtu.be/-KMW1X7WAkc?t=5300)
-| 13th July, 2023  | IBRNet: Learning Multi-View Image-Based Rendering | 김민정 | [Slide]() | [Video](https://youtu.be/-KMW1X7WAkc)
-| 6th July, 2023  | DINO: Emerging Properties in Self-Supervised Vision Transformers | 최새미 | [Slide]() | [Video](https://youtu.be/wuHE88cVGMg?t=6000)
-| 6th July, 2023  | On the duality between contrastive and non-contrastive SSL | 이호준 | [Slide]() | [Video](https://youtu.be/wuHE88cVGMg)
-| 29th June, 2023 | ConvNext v2: Extension of masked Image Modeling | 이상현 | [Slide]() | [Video](https://youtu.be/k-DdgvM5SSo?t=4800)
-| 29th June, 2023 | Extension of Sample-Contrastive Learning | 박준우 | [Slide]() | [Video](https://youtu.be/k-DdgvM5SSo)
-| 22th June, 2023 | GigaGAN: Scaling up GANs for Text-to-Image Synthesis | 구교정 | [Slide]() | [Video](https://youtu.be/hcyNmlYMfUA?t=7560)
-| 22th June, 2023 | A survey of Neural Talking Heads | 이재성 | [Slide]() | [Video](https://youtu.be/hcyNmlYMfUA)
-| 15th June, 2023 | Aligning Text-to-Image models with Human preference | 형준하 | [Slide]() | [Video](https://youtu.be/8G0kUvqGPpw)
-| 15th June, 2023 | Survey on Multimodal with LLM | 백서현 | [Slide]() | [Video](https://youtu.be/QzmLe4Bv_HM)
-| 8th June, 2023 | Unsupervised Model Selection for Time Series Anomaly Detection | 김진희 | [Slide](https://drive.google.com/file/d/1rfciEoJGBJVfJA0lpREgXReJmIdJUzEV/view?usp=share_link) | [Video](https://youtu.be/H5zHLBxYy0M)
-| 8th June, 2023 | Encoding Recurrent into Transformers | 김태성 | [Slide](https://drive.google.com/file/d/1rfciEoJGBJVfJA0lpREgXReJmIdJUzEV/view?usp=share_link) | [Video](https://youtu.be/H5zHLBxYy0M)
-| 1th June, 2023 | Do you know AI bandoche? | 조영우 | [Slide](https://drive.google.com/file/d/1rfciEoJGBJVfJA0lpREgXReJmIdJUzEV/view?usp=share_link) | [Video](https://youtu.be/APLnm7iH-YE)
-| 1th June, 2023 | WebFace260M: A benchmark for Million scale Deep Face Recognition | 이동재 | [Slide](https://drive.google.com/file/d/1rfciEoJGBJVfJA0lpREgXReJmIdJUzEV/view?usp=share_link) | [Video](https://youtu.be/pjg69PPz9bQ)
-| 25th May, 2023 | LIMA: Less Is More for Alignment | 최민석| [Slide](https://drive.google.com/file/d/1rfciEoJGBJVfJA0lpREgXReJmIdJUzEV/view?usp=share_link) | [Video](https://youtu.be/ca9oUV0mWAA)
-| 25th May, 2023 | DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature | Chaehoon Park | [Slide](https://drive.google.com/file/d/1rfciEoJGBJVfJA0lpREgXReJmIdJUzEV/view?usp=share_link) | [Video](https://youtu.be/ca9oUV0mWAA)
-| 18th May, 2023 | Pretraining, Instructing, Reasoning, Planning | Hojun Cho | [Slide](https://drive.google.com/file/d/1rfciEoJGBJVfJA0lpREgXReJmIdJUzEV/view?usp=share_link) | [Video](https://youtu.be/qEi411Ij6MM)
-| 11th May, 2023 | [Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time](https://arxiv.org/abs/2203.05482) | Minho Park | [Slide](https://drive.google.com/file/d/1f01q1tfPO9LagfpgEUQ8Moi540cudnNY/view?usp=share_link) | [Video](https://youtu.be/yVz0JM73kEw)
-| 4th May, 2023 | [Symbolic Discovery of Optimization Algorithms](https://arxiv.org/abs/2302.06675) | Jooyeol Yun | [Slide](https://drive.google.com/file/d/1plJZhVqUvYXbyjgRYc46pR9cg3SiOLgq/view?usp=share_link) | [Video](https://youtu.be/UifT5LT7pkM)
-| 13th April, 2023 | [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/abs/1909.08053) <br> [ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning](https://arxiv.org/abs/2104.07857) | Jimin Hong | [Slide](https://drive.google.com/file/d/1vSiF8KC33r9XRufxdmbvTSRSil7vz5Ez/view?usp=share_link) | [Video]()
-| 6th April, 2023 | DenseNet Strikes Back | Donghyun Kim | [Slide](https://drive.google.com/file/d/1eDhnYmfYISYQq7V-u857E_g7g_WsljgM/view?usp=share_link) | [Video]()
-| 6th April, 2023 | [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://arxiv.org/abs/2210.02186) | Junwoo Park | [Slide](https://drive.google.com/file/d/1lAEBwcSv41DKq3CGE-Y-r8iDzM4pYyS5/view?usp=share_link) | [Video]()
-| 30th March, 2023 | [Deep Active Learning for Computer Vision: Past and Future](https://arxiv.org/abs/2211.14819) | Sejik Park | [Slide](https://drive.google.com/file/d/1tY4Fmvogxs3D_MWv2PpjNGmGNHu3PTN_/view?usp=share_link) | [Video]()
-| 30th March, 2023 | [P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks](https://arxiv.org/abs/2110.07602) | Taehee Kim | [Slide](https://drive.google.com/file/d/18FThXqpNnb8Mdb_HW_fgtOINqgU1J62W/view?usp=share_link) | [Video]()
-| 23th March, 2023 | [Image as Set of Points](https://openreview.net/forum?id=awnvqZja69)| Dongmin Choi | [Slide](https://drive.google.com/file/d/1-AupbH0tDroUs2O3us9pGx3YUrLulwkh/view?usp=share_link) | [Video]()
-| 23th March, 2023 | [Generative Neural Articulated Radiance Fields](https://openreview.net/forum?id=_keb_XuP5oI) | Gyumin Sim | [Slide](https://drive.google.com/file/d/1vhTRb-OGfg6C2o-z1Bn5Ej7VtwyYkXJr/view?usp=share_link) | [Video]()
-| 9th March, 2023 | [Robust Object Detection With Inaccurate Bounding Boxes](https://arxiv.org/abs/2207.09697) | Sohyun Jeong | [Slide](https://drive.google.com/file/d/1NZAlxMF54cLQC2w6T2H1guC0WbR7rNII/view?usp=share_link) | [Video]()
-| 9th March, 2023 | [Learning Fair Classifiers with Partially Annotated Group Labels](https://arxiv.org/abs/2111.14581) | Jinho Choi | [Slide](https://drive.google.com/file/d/1vYJjHveLTPifqKct7mr1KZBsptHX0b0L/view?usp=share_link) | [Video]()
-| 23th February, 2023 | [GLIGEN: Open-Set Grounded Text-to-Image Generation](https://arxiv.org/abs/2301.07093) | Youngjoo Jo | [Slide](https://drive.google.com/file/d/1mLONeg8w3iWUnf-vHq7-muqtT3ab2rWf/view?usp=share_link) | [Video]()
-| 23th February, 2023 | Interesting approaches to utilizing prompts for few-shot NER | Daniel Rim | [Slide](https://drive.google.com/file/d/1SuaEDzPKirzo3lovFSsmaUrElEbIUPjg/view?usp=share_link) | [Video]()
-| 16th February, 2023 | Recipe for a General, Powerful, Scalable Graph Transformer (GPS): A review on 2022 GT-research and how did we get here | Rodrigo Hormazabal | [Slide](https://drive.google.com/file/d/1kiM0yTqcKxmfsQgPLIoygIqyIyG5hhVn/view?usp=share_link) | [Video]()
-| 16th February, 2023 | Introduction to Vision-Language model  | Koanho Lee | [Slide](https://drive.google.com/file/d/1y7zlAzKXJlag41qrEJUxAnbaLKbAxC52/view?usp=share_link) | [Video]()
-| 9th February, 2023 | [Label-aware global consistency for multi-label learning with single positive labels](https://openreview.net/pdf?id=o3HXEEBKnD) | Huiwon Yun | [Slide](https://drive.google.com/file/d/1x92cAw7FT77nmYL759ab75hskOrm2vxh/view?usp=share_link) | [Video]()
-| 9th February, 2023 | [Sequence to sequence text generation with diffusion models](https://openreview.net/forum?id=jQj-_rLVXsj) | Seungil Lee | [Slide](https://drive.google.com/file/d/1g6Np9gdKxUvy_O8gLDFf0x1xMUWdTc3T/view?usp=share_link) | [Video]()
-| 2nd February, 2023 | [Bringing Old Films Back to Life](https://arxiv.org/abs/2203.17276) | Ganbat Munkhsoyol | [Slide](https://drive.google.com/file/d/1y0J-4ns9J6fo0lvQckr5blqeVDZ0qcUb/view?usp=share_link) | [Video]()
-| 2nd February, 2023 | [DropMix: A Textual Data Augmentation Combining Dropout with Mixup](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.57/) | Soyoung Yang | [Slide](https://drive.google.com/file/d/1X9Hs6MC-aII1VQ7CvzXI-ENGbZAIkBfO/view?usp=share_link) | [Video]()
-| 26th January, 2023 | [Multi-Concept Customization of Text-to-Image Diffusion](https://arxiv.org/abs/2212.04488) | Seunghwan Choi | [Slide](https://drive.google.com/file/d/1Ssua6XSWtWp5HChNIZJNHQsNURhLOTeB/view?usp=share_link) | [Video]()
-| 16th January, 2023 | Image restoration: As a point of view of the inverse problem | Sangheyon Lee | [Slide](https://drive.google.com/file/d/1PK6DuLy-4WpcejGv2rnLjk6QmS7O3QiI/view?usp=share_link) | [Video]()
-| 9th January, 2023 | [Learned Initializations for Optimizing Coordinate-Based Neural Representations](https://arxiv.org/abs/2012.02189) | Minjung Kim | [Slide](https://drive.google.com/file/d/1R4rYtFLMXqOr8nbuh4he9QpKMIy45stE/view?usp=share_link) | [Video]()
-| 9th January, 2023 | [Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation](https://arxiv.org/abs/2211.12572) | Junha Hyung | [Slide](https://drive.google.com/file/d/1oG4bCn9hhqYnSQf0G3RNEqvE4klax-td/view?usp=share_link) | [Video]()
-| 2nd January, 2023 | [Semi-Supervised Monocular 3D Object Detection by Multi-View Consistency](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680702.pdf) | Yeojeong Park | [Slide](https://drive.google.com/file/d/12rYWJbn-vE2TooYW8r99U_2zkxk8spBF/view?usp=share_link) | [Video]()
-| 2nd January, 2023 | [Context and Attribute-Aware Sequential Recommendation via Cross-Attention](https://dl.acm.org/doi/10.1145/3523227.3546777) | Chung Park | [Slide](https://drive.google.com/file/d/1nGXhY_4BaPDmpa8RM1brmqPM6wztDCYQ/view?usp=share_link) | [Video]()
-| ~ 2022 | [Link](https://github.com/DAVIAN-Lab/Paper-study/blob/master/paper-list(2022).md) |  |  |  |
+
+### Sprint
+- 5 minutes quick review per paper
+
+|     Date    | Topic | Presenter | Video |
+|:-----------:|:----------------------------------------|:------:|:------:
+| 01.25 2024  | Bad Students Make Great Teachers <br> Rethinking FID: Towards a Better Evaluation Metric for Image Generation <br> InstantID: Zero-shot Identity-Preserving Generation in Seconds <br> AI 커버곡 어떻게 만들까? | 박민호 <br> 조영우 | [Video](https://www.youtube.com/watch?v=ERIoc2vtam4&t=4100s)
+| 01.18 2024  |  Tokenizer is Key to Visual Generation <br>  Divide and not forget: Ensemble of selectively trained experts in Continual Learning <br> FITS: Modeling Time Series with 10k Parameters <br> ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs <br> Pixart-alpha and Pixart-delta <br> Generative Models: What do they know? Do they know things? <br> Instruct-Imagen: Image Generation with Multi-modal Instruction <br> MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation <br> Boundary Attention: Learning to Find Faint Boundaries at Any Resolution <br> TrustLLM: Trustworthiness in Large Language Models <br> Tuning Language Models by Proxy <br> Improving Text Embeddings with Large Language Models | 조호준 <br> 윤주열 <br> 박준우 <br> 최승환  | [Video](https://www.youtube.com/watch?v=ERIoc2vtam4&t=1s)
+| 01.11 2024  | Are Emergent Abilities of Large Language Models a Mirage? <br> Scaling Data-Constrained Language Models <br> Direct Preference Optimization: Your Language Model is Secretly a Reward Model <br> Mixtral of Experts <br> SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling <br> LLaMA Pro: Progressive LLaMA with Block Expansion <br> Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets <br> FreeU: Free Lunch in Diffusion U-Net <br> Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation <br> TIBET: Identifying and Evaluating Biases in Text-to-Image Generative Models <br> ITI-GEN: Inclusive Text-to-Image Generation <br> Fair Text-to-Image Diffusion via Fair Mapping | 양소영 <br> 정하원 <br> 정채연 <br> 김정호  | [Video](https://youtu.be/Fn2PJzW11mg?t=3800)
+| 01.04 2024  | Siamese Masked Autoencoders <br> Learning to Reason and Memorize with Self-Notes <br> Video Prediction Models as Rewards for Reinforcement Learning <br> Pixel Aligned Language Models <br> Gradient-based Parameter Selection for Efficient Fine-Tuning <br> SegGPT: Segmenting Everything In Context <br> Gemini vs GPT-4V: A Preliminary Comparison and Combination <br> Large Language Model Bias Index <br> GPTBIAS: A Comprehensive Framework for Evaluating Bias in Large Language Models <br> I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Model <br> DreamTuner: Single Image is Enough for Subject-Driven Generation <br> StreamDiffusion: A Pipeline-level Solution for Real-time Interactive Generation | 이승일 <br> 이상현 <br> 황동윤 <br> 정소현 | [Video](https://youtu.be/4V5R_s8i_us?t=5)
+| 12.21 2023  | ERM++: An Improved Baseline for Domain Generalization <br> DATACOMP: In search of the next generation of multimodal datasets <br> AI2. Does progress on imagenet transfer to real-world datasets? <br> Aligning Large Language Models through Synthetic Feedback <br> Self-Evaluation Improves Selective Generation in Large Language Models <br> Large Language Models as Optimizers <br> EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything <br> SCEdit: Efficient and Controllable Image Diffusion Generation via Skip Connection Editing <br> Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision| 이도현 <br> 조영우 <br> 임혜수 <br> 최새미 | [Video](https://youtu.be/UnSlEeMmx2s?t=5)
+| 12.14 2023  | Analyzing and Improving the Training Dynamics of Diffusion Models <br> VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence <br> Cache Me if You Can: Accelerating Diffusion Models through Block Caching <br> DreaMoving: A Human Video Generation Framework based on Diffusion Models <br> Vision Transformers Need Registers <br> DeepCache: Accelerating Diffusion Models for Free <br> Kandinsky 3.0 Technical Report <br> FreeInit: Bridging Initialization Gap in Video Diffusion Models <br> Alpha-CLIP: A CLIP Model Focusing on Wherever You Want <br> The mechanistic basis of data dependence and abrupt learning in an in-context classification task <br>  Meta Continual Learning Revisited: Implicitly Enhancing Online Hessian Approximation via Variance Reduction <br> LRM: Large Reconstruction Model for Single Image to 3D | 최승환 <br> 박민호 <br> 박준우 <br> 김태성 | [Video](https://youtu.be/OqI59NRx-nI?t=60)
+| 12.07 2023  | Towards Accurate Differential Diagnosis with Large Language Models <br> Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models <br> Communicative Agents for Software Development <br> IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models <br> LCM-LoRA: A Universal Stable-Diffusion Acceleration Module <br> Adversarial Diffusion Distillation <br> Training Chain-of-Thought via Latent-Variable Inference <br> The Unlocking Spell on Base LLMs: Rethinking Alignment via In-Context Learning <br> GAIA: A Benchmark for General AI Assistants <br> FaceStudio: Put Your Face Everywhere in Seconds <br> ImageDream: Image-Prompt Multi-view Diffusion for 3D Generation <br> Describing Differences in Image Sets with Natural Language | 조호준 <br> 윤주열 <br> 김진희 | [Video](https://youtu.be/C_areldwHYs?t=3610)
+| ~ 2023 | [Link](https://github.com/DAVIAN-Lab/Paper-study/blob/master/paper-list(2023).md) |  |  |  |
